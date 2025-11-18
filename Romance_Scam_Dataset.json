@@ -18,7 +18,7 @@
         "Social Desirability Bias",
         "Loss Aversion"
       ],
-    "Emotional Mechanisms": ["Hope, Trust, Vulnerability, Deception, Manipulation, Exploitation, Coercion, Embarrassment, Fear, Betrayal, Anger, Regret, Distrust, Greed"],
+    "Emotional Mechanisms": ["Hope", "Trust", "Vulnerability", "Deception", "Manipulation", "Exploitation", "Coercion", "Embarrassment", "Fear", "Betrayal", "Anger", "Regret", "Distrust", "Greed"],
     "Source": "Reddit",
     "Common Signs": ""
   },
@@ -40,7 +40,7 @@
         "Sunk Cost Fallacy",
         "Loss Aversion"
       ],
-    "Emotional Mechanisms": ["Exploitation of Trust, Deception, Social Engineering, Vulnerability (preying on), Shock, Betrayal, Anger"],
+    "Emotional Mechanisms": ["Exploitation of Trust", "Deception", "Social Engineering", "Vulnerability (preying on)", "Shock", "Betrayal", "Anger"],
     "Source": "Reddit",
     "Common Signs": ""
   },
@@ -61,7 +61,7 @@
         "Loss Aversion"
       ],
     "Emotional Mechanisms": [
-      "Urgency, Flattery, Pressure, Secrecy"
+      "Urgency", "Flattery", "Pressure", "Secrecy"
     ],
     "Source": "Reddit",
     "Common Signs": ""
@@ -85,7 +85,7 @@
         "Anchoring",
         "Loss Aversion"
       ],
-    "Emotional Mechanisms": ["Deception, Control, Manipulation, Indifference, Abandonment, Isolation, Pressure, Fear, Shock"],
+    "Emotional Mechanisms": ["Deception", "Control", "Manipulation", "Indifference", "Abandonment", "Isolation", "Pressure", "Fear", "Shock"],
     "Source": "Reddit",
     "Common Signs": ""
   },
@@ -107,7 +107,7 @@
         "Loss Aversion",
         "Authority Bias"
       ],
-    "Emotional Mechanisms":[ "Deception, Building Rapport, Manipulation, Enticement, Abandonment, Intimidation, Threat, Physical Coercion, Fear"],
+    "Emotional Mechanisms": ["Deception", "Building Rapport", "Manipulation", "Enticement", "Abandonment", "Intimidation", "Threat", "Physical Coercion", "Fear"],
     "Source": "Reddit",
     "Common Signs": "Girl insisting on a particular bar (common scam pattern).\n \n Ordering many expensive items without hesitation.\n \n Sudden excuses and disappearing during billing.\n \n Staff aggressive, unprofessional, or unusually forceful.\n \n Inflated, unrealistic bill amounts (₹5k for hookah, ₹5k for pyros).\n \n Fake emergencies (“periods,” “calling friends”).\n \n Refusing to split or discuss bill.\n \n Bar staff siding with the girl immediately."
   },
@@ -130,7 +130,7 @@
         "Escalation of Commitment",
         "Affect Heuristic"
       ],
-    "Emotional Mechanisms": [ "Trust, Hope, Love, Loneliness, Desire for Connection, Attachment, Fantasy"],
+    "Emotional Mechanisms": ["Trust", "Hope", "Love", "Loneliness", "Desire for Connection", "Attachment", "Fantasy"],
     "Common Signs": ""
   },
   {
@@ -150,7 +150,7 @@
         "Confirmation Bias",
         "Loss Aversion"
       ],
-    "Emotional Mechanisms":["Curiosity, Desire for Connection, Suspicion, Caution, Relief"],
+    "Emotional Mechanisms": ["Curiosity", "Desire for Connection", "Suspicion", "Caution", "Relief"],
     "Source": "Reddit",
     "Common Signs": ""
   },
@@ -170,7 +170,7 @@
         "Loss Aversion",
         "Hyperbolic Discounting"
       ],
-    "Emotional Mechanisms": ["Curiosity, Suspicion, Caution, Prudence, Relief, Discomfort"],
+    "Emotional Mechanisms": ["Curiosity", "Suspicion", "Caution", "Prudence", "Relief", "Discomfort"],
     "Source": "Reddit",
     "Common Signs": ""
   },
@@ -191,7 +191,7 @@
         "Hyperbolic Discounting",
         "Affect Heuristic"
       ],
-    "Emotional Mechanisms": ["Desire for Intimacy, Trust, Fear, Shame, Anxiety, Embarrassment, Vulnerability, Distress"],
+    "Emotional Mechanisms": ["Desire for Intimacy", "Trust", "Fear", "Shame", "Anxiety", "Embarrassment", "Vulnerability", "Distress"],
     "Source": "Reddit",
     "Common Signs": "> switching to other platforms\n \n > asking for all other social media\n \n > threats to share with family/friends\n \n > pressure of sexual exposure"
   },
@@ -213,7 +213,7 @@
         "Sunk Cost Fallacy",
         "Optimism Bias"
       ],
-    "Emotional Mechanisms":["Love, Trust, Hope, Betrayal, Devastation, Fear, Vulnerability, Loneliness, Heartbreak"],
+    "Emotional Mechanisms": ["Love", "Trust", "Hope", "Betrayal", "Devastation", "Fear", "Vulnerability", "Loneliness", "Heartbreak"],
     "Source": "Reddit",
     "Common Signs": "> sudden financial requests\n \n > cash payments\n \n > promise of marriage\n \n > inconsistent details about location or background\n \n > victim hesitant because of sexual orientation"
   },
@@ -370,7 +370,7 @@
         "Affect Heuristic",
         "Loss Aversion"
       ],
-    "Emotional Mechanisms": ["Desire for connection, Trust, Shock, Powerlessness, Fear of confrontation, Social embarrassment, Disillusionment, Distrust"],
+    "Emotional Mechanisms": ["Desire for connection", "Trust", "Shock", "Powerlessness", "Fear of confrontation", "Social embarrassment", "Disillusionment", "Distrust"],
     "Source": "Reddit",
     "Common Signs": "> sudden romantic interest\n \n > specific restaurant\n \n > popular, public area\n \n > scammer acts relaxed\n \n > victim is socially pressured"
   },
@@ -393,7 +393,7 @@
         "Affect Heuristic",
         "Sunk Cost Fallacy"
       ],
-    "Emotional Mechanisms": ["Trust building, Desire for connection, Emotional investment, Manipulation, Deception, Social validation, Cognitive bias"],
+    "Emotional Mechanisms": ["Trust building", "Desire for connection", "Emotional investment", "Manipulation", "Deception", "Social validation", "Cognitive bias"],
     "Source": "Reddit",
     "Common Signs": "> well-developed scammer persona - appears knowledgeable, emotionally engaging \n \n > off-platform conversation\n \n > private meet-ups\n \n > cash-only payments which are untraceable\n \n > emotional, sexual pretext"
   },
@@ -436,7 +436,7 @@
         "Reciprocity Norm",
         "Availability Heuristic"
       ],
-    "Emotional Mechanisms":["Desire for connection, Trust, Deception, Coercion, Fear, Powerlessness, Regret"],
+    "Emotional Mechanisms":["Desire for connection", "Trust", "Deception", "Coercion", "Fear", "Powerlessness", "Regret"],
     "Source": "Reddit",
     "Common Signs": ""
   },
@@ -457,7 +457,7 @@
         "Optimism Bias",
         "Loss Aversion"
       ],
-    "Emotional Mechanisms": ["Trust building, Emotional connection, Vulnerability, Deception, Blackmail, Fear, Shame, Self-blame, Distrust, Disgust"],
+    "Emotional Mechanisms": ["Trust building", "Emotional connection", "Vulnerability", "Deception", "Blackmail", "Fear", "Shame", "Self-blame", "Distrust", "Disgust"],
     "Source": "Reddit",
     "Common Signs": ""
   },
@@ -478,7 +478,7 @@
         "Optimism Bias",
         "Loss Aversion"
       ],
-    "Emotional Mechanisms": ["Betrayal, Fear, Intimidation, Frustration, Helplessness, Anger"],
+    "Emotional Mechanisms": ["Betrayal", "Fear", "Intimidation", "Frustration", "Helplessness", "Anger"],
     "Source": "Reddit",
     "Common Signs": ""
   },
@@ -519,7 +519,7 @@
         "Confirmation Bias",
         "Loss Aversion"
       ],
-    "Emotional Mechanisms": ["Suspicion, Distrust, Caution, Relief"],
+    "Emotional Mechanisms": ["Suspicion", "Distrust", "Caution", "Relief"],
     "Source": "Reddit",
     "Common Signs": ""
   },
@@ -540,7 +540,7 @@
         "Loss Aversion",
         "Affect Heuristic"
       ],
-    "Emotional Mechanisms":["Deception, Betrayal, Intimidation, Frustration, Helplessness"],
+    "Emotional Mechanisms": ["Deception", "Betrayal", "Intimidation", "Frustration", "Helplessness"],
     "Source": "Reddit",
     "Common Signs": ""
   },
@@ -562,7 +562,7 @@
         "Sunk Cost Fallacy",
         "Hyperbolic Discounting"
       ],
-    "Emotional Mechanisms":["Loneliness, Vulnerability, Deception, Coercion, Intimidation, Frustration, Betrayal, Helplessness"],
+    "Emotional Mechanisms": ["Loneliness", "Vulnerability", "Deception", "Coercion", "Intimidation", "Frustration", "Betrayal", "Helplessness"],
     "Common Signs": ""
   },
   {
@@ -583,7 +583,7 @@
         "Sunk Cost Fallacy",
         "Anchoring"
       ],
-    "Emotional Mechanisms": ["Betrayal, Shock, Anger, Feeling foolish"],
+    "Emotional Mechanisms": ["Betrayal", "Shock", "Anger", "Feeling foolish"],
     "Source": "Reddit",
     "Common Signs": "Quick move from chatting to meeting (2 days).\n - Girl insists on a specific café near a landmark.\n - Orders hookah or alcohol despite victim’s reluctance.\n - Makes excuse to leave mid-meal, never returns.\n - Inflated bill with hidden “cabin” or “flavor” charges.\n - Staff reduce bill instantly when threatened with police.\n - Police unresponsive or aware but inactive — suggesting systemic collusion."
   },
@@ -604,7 +604,7 @@
         "Sunk Cost Fallacy",
         "Hyperbolic Discounting"
       ],
-    "Emotional Mechanisms": ["Betrayal, Shock, Anger, Distrust, Disappointment"],
+    "Emotional Mechanisms": ["Betrayal", "Shock", "Anger", "Distrust", "Disappointment"],
     "Source": "Reddit",
     "Common Signs": "Meeting initiated very soon after matching.\n - Girl insists on specific bar/café.\n - Inflated menu prices or hidden “entry fees.”\n - Girl orders alcoholic drinks and mixers immediately.\n - Casual attitude or early exit after ordering.\n - Victim experiences quick realization and emotional shock.\n - Café likely in collusion with scammer."
   },
@@ -625,7 +625,7 @@
         "Confirmation Bias",
         "Loss Aversion"
       ],
-    "Emotional Mechanisms": ["Suspicion, Unease, Apprehension, Fear, Anger, Distrust"],
+    "Emotional Mechanisms": ["Suspicion", "Unease", "Apprehension", "Fear", "Anger", "Distrust"],
     "Source": "Reddit",
     "Common Signs": "Girl insists on quick meetup after few chats.\n - Meeting at public but nearby shady café suggested by her.\n - Companion friends accompany her to add false legitimacy.\n - Café appears nearly empty with few male patrons.\n - Hookah on tables — common setup in Kolkata scams.\n - Google reviews of the café show similar scam patterns.\n - Scammer becomes slightly pushy but not aggressive when victim hesitates.\n - Leaving early avoids financial and emotional loss."
   },
@@ -645,7 +645,7 @@
         "Loss Aversion",
         "Availability Heuristic"
       ],
-    "Emotional Mechanisms":["Fear, Intimidation, Anxiety, Betrayal, Panic, Humiliation"],
+    "Emotional Mechanisms": ["Fear", "Intimidation", "Anxiety", "Betrayal", "Panic", "Humiliation"],
     "Source": "Reddit",
     "Common Signs": "Scammer moves very fast to personal chat (WhatsApp).\n - Sends photos early and requests reciprocation.\n - Uses fake or stolen images (reverse image search reveals truth).\n - Threatens to edit and post images to coerce payment.\n - Gradually lowers ransom demand, showing desperation.\n - Stops contact when victim refuses and blocks.\n - Relies entirely on fear of exposure, not actual possession of material."
   },
@@ -667,7 +667,7 @@
         "Affect Heuristic",
         "Sunk Cost Fallacy"
       ],
-    "Emotional Mechanisms": ["Betrayal, Gaslighting, Emotional manipulation, Deception, Heartbreak, Psychological fatigue, Guilt"],
+    "Emotional Mechanisms": ["Betrayal", "Gaslighting", "Emotional manipulation", "Deception", "Heartbreak", "Psychological fatigue", "Guilt"],
     "Source": "Reddit",
     "Common Signs": "Fast emotional bonding despite short acquaintance.\n - Avoids video calls or verifiable identity proof.\n - Multiple fake personas (boyfriend, relative, authority figures).\n - Emotional manipulation via guilt, fake crises, or suicide threats.\n - Financial dependence or small loan requests.\n - Deflection when confronted, shifting blame or narrative.\n - Institutional apathy when reported (college ignoring complaint).\n - Long-term psychological fatigue and trauma symptoms in the victim."
   },
@@ -690,7 +690,7 @@
         "Authority Bias",
         "Loss Aversion"
       ],
-    "Emotional Mechanisms": ["Fear, Intimidation, Social pressure, Desire for romance"],
+    "Emotional Mechanisms": ["Fear", "Intimidation", "Social pressure", "Desire for romance"],
     "Source": "Reddit",
     "Common Signs": "Match moves quickly from chatting to meeting.\n - Meeting location is pre-selected shady bar/café (e.g., Red Room, Godfather Lounge).\n - Overpriced hookah and drinks appear on bill.\n - Victim pressured to pay via fear of legal or physical harm.\n - Staff collusion: management, waiters, and bouncers all involved.\n - Girl disappears post-payment, later returns to trap new victims.\n - Same names reused (Maya, Kajal, Muskan).\n - Victims beaten or blackmailed if they resist payment."
   },
@@ -710,7 +710,7 @@
         "Loss Aversion",
         "Optimism Bias"
       ],
-    "Emotional Mechanisms": [ "Fear of exposure, Shame, Threat"],
+    "Emotional Mechanisms": ["Fear of exposure", "Shame", "Threat"],
     "Source": "Reddit",
     "Common Signs": "Scammer contacts via anonymous Telegram dating bots.\n - Quick escalation from chat to sexual conversation.\n - Requests for explicit media using Telegram’s camera/self-destruct mode.\n - Threat of image exposure on fake hosting sites (e.g., imgbb, Google Drive).\n - Demands for non-traceable payments (gift cards, crypto).\n - Repeated extortion attempts even after first payment.\n - Scammer recontacts victims (“bro”) to test continued fear.\n - Victims experience intense panic, insomnia, and anxiety before realizing they can report safely."
   },
@@ -732,7 +732,7 @@
         "Authority Bias",
         "Affect Heuristic"
       ],
-    "Emotional Mechanisms": [ "Emotional attachment, Trust, Fear of exposure, Betrayal, Pressure"],
+    "Emotional Mechanisms": [ "Emotional attachment", "Trust", "Fear of exposure", "Betrayal", "Pressure"],
     "Source": "Reddit",
     "Common Signs": "Relationship develops rapidly with emotional intensity.\n - Victim frequently pays for outings and gifts.\n - Scammer begins asking for expensive items (like iPhone).\n - Threats of exposing chats or personal photos to family.\n - Claim of powerful connections (police, politicians) to intimidate.\n - Sudden disappearance post-payment.\n - Emotional dependency and fear of public embarrassment keep victim quiet."
   },
@@ -754,7 +754,7 @@
         "Affect Heuristic",
         "Escalation of Commitment"
       ],
-    "Emotional Mechanisms":["Fear of exposure, Shame, Trust, Threat, Panic"],
+    "Emotional Mechanisms": ["Fear of exposure", "Shame", "Trust", "Threat", "Panic"],
     "Source": "Reddit",
     "Common Signs": "Match seems normal and slow-paced to appear real.\n - Moves conversation to social-media platforms to harvest data.\n - Initiates video call at night.\n - Uses pre-recorded or deep-fake video of a nude woman.\n - Threatens to release fake edited content to contacts.\n - Demands large payments citing “deletion of video.”\n - Uses victim’s phone number to access bank/credit info.\n - Posts or sends clips to a few friends to prove capability.\n - Authorities and platforms slow or ineffective in response."
   },
@@ -797,7 +797,13 @@
         "Sunk Cost Fallacy",
         "Social Desirability Bias"
       ],
-    "Emotional Mechanisms": ["Humiliation, Betrayal, Financial distress, Embarrassment, Shock"],
+    "Emotional Mechanisms": [
+      "Humiliation",
+      "Betrayal",
+      "Financial distress",
+      "Embarrassment",
+      "Shock"
+    ],
     "Source": "Reddit",
     "Common Signs": "Date insists on specific restaurant.\n - Orders excessive or costly items casually.\n - Claims to have stable income or job to gain trust.\n - Leaves mid-meal citing restroom or urgent call.\n - Bill inflated beyond expectation (₹10k–₹12k range).\n - Other victims present simultaneously — evidence of collusion.\n - Restaurant staff indifferent or complicit.\n - Scammer vanishes from app or blocks after incident."
   },
@@ -818,7 +824,13 @@
         "Loss Aversion",
         "Optimism Bias"
       ],
-    "Emotional Mechanisms": [ "Fear of exposure, Shame, Panic, Humiliation, Betrayal"],
+    "Emotional Mechanisms": [
+      "Fear of exposure",
+      "Shame",
+      "Panic",
+      "Humiliation",
+      "Betrayal"
+    ],
     "Common Signs": "Immediate shift to WhatsApp after match.\n - Instant video call with sexual provocation.\n - Scammer encourages undressing quickly.\n - Hidden recording and fake exposure threats.\n - Demands for small, “quick-pay” ransom (₹5,000–₹10,000).\n - Threats reference YouTube, Facebook, Instagram, or family.\n - Sudden language switch when male handler takes over.\n - Threats usually fade if no payment is made."
   },
   {
@@ -859,7 +871,13 @@
         "Authority Bias",
         "Availability Heuristic"
       ],
-    "Emotional Mechanisms": [ "Fear of exposure, Anxiety, Vulnerability, Manipulation, Distress"],
+    "Emotional Mechanisms": [
+      "Fear of exposure",
+      "Anxiety",
+      "Vulnerability",
+      "Manipulation",
+      "Distress"
+    ],
     "Source": "Reddit",
     "Common Signs": "Instant move to WhatsApp after matching.\n - Scammer immediately uses the victim’s real name, creating fear.\n - Threats to “out” sexuality to family or colleagues.\n - Demands payment (₹20k–₹50k range) for silence.\n - Multiple persistent calls from unknown numbers.\n - Use of Truecaller-verified names to fake credibility.\n - Fake “lawyers” or helpers approach victims for money.\n - Victims experience extreme shame and avoidance of legal aid."
   },
@@ -879,7 +897,13 @@
         "Loss Aversion",
         "Normalcy Bias"
       ],
-    "Emotional Mechanisms": ["Fear of exposure, Emotional trauma, Vulnerability, Humiliation, Distress"],
+    "Emotional Mechanisms": [
+      "Fear of exposure",
+      "Emotional trauma",
+      "Vulnerability",
+      "Humiliation",
+      "Distress"
+    ],
     "Source": "Reddit",
     "Common Signs": "Dating app contact followed by quick physical meetup.\n - Hidden recording of sexual act.\n - Immediate extortion demand post-encounter (₹50k–₹1L range).\n - Use of marginalized identity (Hijra) to invoke guilt or fear.\n - Repeated monetary demands despite initial payment.\n - Victim reluctance to approach law enforcement due to sexuality-based stigma.\n - Emotional breakdown, insomnia, and social withdrawal."
   },
@@ -900,7 +924,7 @@
         "Anchoring",
         "Optimism Bias"
       ],
-    "Emotional Mechanisms":[ "Fear, Panic, Shame, Embarrassment, Anxiety"],
+    "Emotional Mechanisms":[ "Fear", "Panic", "Shame", "Embarrassment", "Anxiety"],
     "Source": "Reddit",
     "Common Signs": "Scammer moves off-app quickly (Tinder → Instagram → phone).\n - Initiates explicit video call unprompted.\n - Records or fabricates video showing victim’s identifiable features.\n - Threatens exposure to family/friends using follower lists.\n - Demands vary in currency (£, $, crypto).\n - Accepts small initial payment to establish control.\n - Continues escalating or rescheduling threats (“next month payment”).\n - Silence or disappearance once victim blocks."
   },
@@ -921,7 +945,7 @@
         "Optimism Bias",
         "Catastrophic Thinking Bias"
       ],
-    "Emotional Mechanisms": ["Fear, Anxiety, Shame, Embarrassment, Distress"],
+    "Emotional Mechanisms": ["Fear", "Anxiety", "Shame", "Embarrassment", "Distress"],
     "Source": "Reddit",
     "Common Signs": "Sudden WhatsApp switch after initial chat.\n - Immediate nude video call initiation by scammer.\n - Victim’s visible face recorded.\n - Threats of mass leak to followers/family.\n - No monetary demand initially or small follow-up extortion attempt.\n - Emotional blackmail via shame rather than money.\n - Scammer disappears or reappears with new numbers."
   },
@@ -942,7 +966,14 @@
         "Urgency Bias",
         "Framing Effect"
       ],
-    "Emotional Mechanisms": ["Fear, Panic, Confusion, Distress, Shame, Embarrassment"],
+    "Emotional Mechanisms": [
+      "Fear",
+      "Panic",
+      "Confusion",
+      "Distress",
+      "Shame",
+      "Embarrassment"
+    ],
     "Source": "Reddit",
     "Common Signs": "Immediate shift from chatting to WhatsApp.\n - Pre-recorded nude video used for bait.\n - Threat to post on social media or send to family.\n - Follow-up call from “Cybercrime Officer.”\n - Fake legal terms and monetary “fine.”\n - Low secondary demand (₹500) after main threat.\n - Scammer claims to be deleting video after payment.\n - Emotional whiplash (arousal → fear → doubt → relief)."
   },
@@ -963,7 +994,7 @@
         "Loss Aversion",
         "Availability Heuristic"
       ],
-    "Emotional Mechanisms":  ["Fear, Panic, Anxiety, Shame, Embarrassment"],
+    "Emotional Mechanisms":  ["Fear", "Panic", "Anxiety", "Shame", "Embarrassment"],
     "Source": "Reddit",
     "Common Signs": "Foreign profile with rapid sexual escalation.\n - Cross-platform switch (Instagram → Snapchat).\n - Explicit content exchange initiated by scammer.\n - Screenshot/save of victim’s content.\n - Crypto payment demand (Bitcoin, USDT, etc.).\n - Threat to “send to friends” despite no actual friend-list access.\n - Silence after blocking (24–48 hrs).\n - Persistent anxiety even after no contact."
   },
@@ -984,7 +1015,14 @@
         "Optimism Bias",
         "Confirmation Bias"
       ],
-    "Emotional Mechanisms": [ "Fear, Panic, Anxiety, Distress, Shame, Embarrassment"],
+    "Emotional Mechanisms": [
+      "Fear",
+      "Panic",
+      "Anxiety",
+      "Distress",
+      "Shame",
+      "Embarrassment"
+    ],
     "Source": "Reddit",
     "Common Signs": "Escort/camgirl site redirects to WhatsApp.\n - Low entry fee (₹300–₹1000) to hook victim.\n - UPI account with mismatched gender.\n - Fake “boyfriend” or “manager” explanation.\n - Sudden demand escalation.\n - Use of UPI name for fake “personal data threat.”\n - Switching numbers after blocking.\n - No actual hacking or leak, only psychological intimidation."
   },
@@ -1005,7 +1043,7 @@
         "Loss Aversion",
         "Optimism Bias"
       ],
-    "Emotional Mechanisms": ["Fear of social exposure, Reputation fear, Manipulation, Learned helplessness, Desperation"],
+    "Emotional Mechanisms": ["Fear of social exposure", "Reputation fear", "Manipulation", "Learned helplessness", "Desperation"],
     "Source": "Reddit",
     "Common Signs": "Gradual trust-building before explicit content.\n - Switch to WhatsApp for “private talk.”\n - Explicit video call initiated by scammer.\n - Victim’s identifiable face captured.\n - Threat to leak via social media.\n - Demands increase in stages (₹20k → ₹50k → ₹2L+).\n - Continued coercion despite payment.\n - Victim experiences guilt, secrecy, insomnia."
   },
@@ -1027,7 +1065,15 @@
         "Anchoring",
         "Availability Heuristic"
       ],
-    "Emotional Mechanisms": [ "Vulnerability, Manipulation, Fear of social exposure, Reputation fear, Anxiety, Shame, Fear of parental disapproval"],
+    "Emotional Mechanisms": [
+      "Vulnerability",
+      "Manipulation",
+      "Fear of social exposure",
+      "Reputation fear",
+      "Anxiety",
+      "Shame",
+      "Fear of parental disapproval"
+    ],
     "Common Signs": "Quick intimacy escalation after matching.\n - Multiple “trust-building” calls before extortion.\n - Scammer uses accomplice (male voice) for blackmail.\n - Composite video created using edited clips.\n - Threats backed by actual message requests to contacts.\n - Payment in stages (“just one last time”).\n - False assurance (“I promise I’ll delete it”).\n - Victim avoids police due to shame."
   },
   {
@@ -1047,7 +1093,14 @@
         "Availability Heuristic",
         "Sunk Cost Fallacy"
       ],
-    "Emotional Mechanisms": [ "Fear of social exposure, Ongoing fear, Anxiety, Fear of parental disapproval, Shame, Learned helplessness"],
+    "Emotional Mechanisms": [
+      "Fear of social exposure",
+      "Ongoing fear",
+      "Anxiety",
+      "Fear of parental disapproval",
+      "Shame",
+      "Learned helplessness"
+    ],
     "Source": "Reddit",
     "Common Signs": "Multiple new numbers calling daily.\n - Victim stops paying but remains hypervigilant.\n - Fear of going to police due to parental discovery.\n - Anonymous complaint filed but no follow-up.\n - Persistent insomnia, guilt, and shame.\n - Belief that exposure can happen any moment.\n - Avoidance of friends/family.\n - Severe anxiety despite zero recent contact."
   },
@@ -1068,7 +1121,7 @@
         "Framing Effect",
         "Catastrophic Thinking Bias"
       ],
-    "Emotional Mechanisms": [ "Moral panic, Reputation fear, False guilt, Fear of criminal implications, Psychological manipulation"],
+    "Emotional Mechanisms": [ "Moral panic", "Reputation fear", "False guilt", "Fear of criminal implications", "Psychological manipulation"],
     "Source": "Reddit",
     "Common Signs": "Explicit bait message (“fun” on Telegram).\n - Exchange of photos, then fake accusation.\n - Threat to post on social media.\n - Small payment demand (₹10–₹30K).\n - Labels victim with strong moral trigger (“pedo,” “pervert”).\n - Late-night threats and urgent deletion offers.\n - Victim shows panic and self-blame despite innocence."
   },
@@ -1089,7 +1142,11 @@
         "Loss Aversion",
         "Availability Heuristic"
       ],
-    "Emotional Mechanisms": ["Manipulation, Fear of social exposure, Reputation fear"],
+    "Emotional Mechanisms": [
+      "Manipulation",
+      "Fear of social exposure",
+      "Reputation fear"
+    ],
     "Source": "Reddit",
     "Common Signs": "Newly made social profile initiates contact.\n - Shifts from Facebook to WhatsApp rapidly.\n - Pushes for instant video call and sexual activity.\n - Records and stitches multiple clips.\n - Threatens exposure to contacts.\n - Demands ₹10K–₹50K via UPI.\n - Uses fake foreign names or generic female usernames.\n - Sends messages late night/early morning."
   },
@@ -1110,7 +1167,19 @@
         "Sunk Cost Fallacy",
         "Halo Effect"
       ],
-    "Emotional Mechanisms": ["Emotional manipulation, Trust building, Dependence, Empathy, Coercion, Shame, Vulnerability, Deception, Intimidation, Distress, Abandonment"],
+    "Emotional Mechanisms": [
+      "Emotional manipulation",
+      "Trust building",
+      "Dependence",
+      "Empathy",
+      "Coercion",
+      "Shame",
+      "Vulnerability",
+      "Deception",
+      "Intimidation",
+      "Distress",
+      "Abandonment"
+    ],
     "Source": "Reddit",
     "Common Signs": "Fake “rich businessman” persona with sob story.\n - Immediate emotional intimacy and dependence.\n - Pressure for physical meeting (Goa trip).\n - Gradual normalization of financial favors.\n - Requests to use victim’s bank account.\n - Demands for loans and credit in her name.\n - Ghosting after exhaustion of victim’s credit sources.\n - Use of excuses (illness, family issues, site problems)."
   },
@@ -1131,7 +1200,18 @@
         "Moral Panic Bias",
         "Optimism Bias"
       ],
-    "Emotional Mechanisms": ["Fear of exposure, Shame, Extortion, Intimidation, Guilt, Anxiety, Manipulation, False hope, Trauma, Self-blame"],
+    "Emotional Mechanisms": [
+      "Fear of exposure",
+      "Shame",
+      "Extortion",
+      "Intimidation",
+      "Guilt",
+      "Anxiety",
+      "Manipulation",
+      "False hope",
+      "Trauma",
+      "Self-blame"
+    ],
     "Common Signs": "Sudden intrusion during private act.\n - Immediate threat of “police involvement.”\n - Payment demanded as “fine” or “compromise.”\n - Video deletion shown visually but not verified.\n - Later promise of refund to retain contact.\n - Victim experiences lingering fear and self-hatred despite innocence."
   },
   {
@@ -1150,7 +1230,7 @@
         "Optimism Bias",
         "Secrecy Bias"
       ],
-    "Emotional Mechanisms": [ "Shame, Fear of discovery, Secrecy, Desire, Hope"],
+    "Emotional Mechanisms": [ "Shame", "Fear of discovery", "Secrecy", "Desire", "Hope"],
     "Source": "Reddit",
     "Common Signs": "Sudden monetary demand before meeting.\n - No verifiable profile or agency contact.\n - Push for digital transfer (UPI/PhonePe).\n - Fear of exposure prevents immediate help-seeking.\n - Instant emotional oscillation: excitement → fear → secrecy."
   },
@@ -1171,7 +1251,16 @@
         "Catastrophic Thinking Bias",
         "Authority Bias"
       ],
-    "Emotional Mechanisms":["Fear of exposure, Shame, Extortion, Threat, Intimidation, Terror, Lure, Desire"],
+    "Emotional Mechanisms": [
+      "Fear of exposure",
+      "Shame",
+      "Extortion",
+      "Threat",
+      "Intimidation",
+      "Terror",
+      "Lure",
+      "Desire"
+    ],
     "Source": "Reddit",
     "Common Signs": "Instant escalation from text chat to explicit video call.\n \n Abrupt call termination once exposure captured.\n \n Immediate threat using screenshots or fake contact lists.\n \n Shift to male “handler” voice demanding money.\n \n Victim deletes social accounts and isolates due to fear.\n \n Persistent psychological oscillation: pleasure → terror → guilt → silence."
   },
@@ -1194,7 +1283,17 @@
         "Loss Aversion",
         "Authority Bias"
       ],
-    "Emotional Mechanisms": ["Deception, Lure, Desire for companionship, Hope, False promise, Manipulation, Trust building, Threat, Intimidation"],
+    "Emotional Mechanisms": [
+      "Deception",
+      "Lure",
+      "Desire for companionship",
+      "Hope",
+      "False promise",
+      "Manipulation",
+      "Trust building",
+      "Threat",
+      "Intimidation"
+    ],
     "Source": "NDTV",
     "Common Signs": "Claims of “elite dating” or “exclusive membership” requiring advance registration.\n \n Multiple female identities (“Ritika,” “Priti”) to sustain illusion and continuity.\n \n Requests for phased payments with changing bank accounts.\n \n Shift from affection-based grooming to coercion when compliance drops.\n \n Threats and emotional manipulation to prevent withdrawal.\n \n Victim realizes scam only after total monetary exhaustion or explicit threat."
   },
@@ -1217,7 +1316,13 @@
         "Availability Heuristic",
         "Reciprocity Norm"
       ],
-    "Emotional Mechanisms": ["Emotional bonding, Trust building, Confidence building, Greed, Encouragement"],
+    "Emotional Mechanisms": [
+      "Emotional bonding",
+      "Trust building",
+      "Confidence building",
+      "Greed",
+      "Encouragement"
+    ],
     "Source": "NDTV",
     "Common Signs": "Dating app match transitions into “investment advisor” quickly.\n \n “Trial profit” and instant partial withdrawal to build credibility.\n \n High-urgency persuasion: “Limited time offer,” “exclusive client list.”\n \n Multiple accounts for phased deposits.\n \n Request for “tax” or “release fee” before withdrawal.\n \n Silence and platform shutdown upon refusal to pay further."
   },
@@ -1239,7 +1344,11 @@
         "Anchoring",
         "Loss Aversion"
       ],
-    "Emotional Mechanisms": ["Intimidation, Fear, Social pressure"],
+    "Emotional Mechanisms": [
+      "Intimidation",
+      "Fear",
+      "Social pressure"
+    ],
     "Source": "NDTV",
     "Common Signs": "• Immediate invitation to meet without prior rapport.\n • Suggestion to meet at a “known bar nearby.”\n • Empty or low-traffic venue with intimidating staff.\n • Woman orders premium alcohol without consulting victim.\n • Exorbitant final bill and group pressure to pay quickly.\n • Victim realizes scam only after leaving the venue."
   },
@@ -1261,7 +1370,14 @@
         "Authority Bias",
         "Hyperbolic Discounting"
       ],
-    "Emotional Mechanisms":["Emotional bonding, Trust building, Affection, Confidence building, Psychological conditioning, Emotional manipulation"],
+    "Emotional Mechanisms": [
+      "Emotional bonding",
+      "Trust building",
+      "Affection",
+      "Confidence building",
+      "Psychological conditioning",
+      "Emotional manipulation"
+    ],
     "Common Signs": "Long grooming phase with deep emotional bonding and daily affection.\n • Claims of financial expertise (“I retired early through crypto”).\n • Early demonstration of fake profit withdrawal to gain trust.\n • Encourages liquidation of retirement funds or loans.\n • AI-generated photos/videos to maintain illusion.\n • Sudden tax or withdrawal fee demanded before payout.\n • Emotional manipulation: affection → urgency → betrayal."
   },
   {
@@ -1281,7 +1397,13 @@
         "Loss Aversion",
         "Escalation of Commitment"
       ],
-    "Emotional Mechanisms": ["Trust building, Persuasion, Fear, Intimidation, Blackmail"],
+    "Emotional Mechanisms": [
+      "Trust building",
+      "Persuasion",
+      "Fear",
+      "Intimidation",
+      "Blackmail"
+    ],
     "Source": "NDTV",
     "Common Signs": "Fake “UK marriage” or “foreign friendship” profiles on Instagram.\n • Quick shift from chatting to video calls.\n • Immediate recording or disconnection after exposure.\n • False emergencies (“stuck at airport,” “need help”) to trigger empathy and urgency.\n • Escalating monetary demands in small, repeated transfers.\n • Silence or disappearance after extortion ceiling reached."
   },
@@ -1303,7 +1425,7 @@
         "Hyperbolic Discounting",
         "Optimism Bias"
       ],
-    "Emotional Mechanisms": ["Trust building, Affection, Urgency, Deception"],
+    "Emotional Mechanisms": ["Trust building", "Affection", "Urgency", "Deception"],
     "Source": "Times of India",
     "Common Signs": "Profiles Claiming NRI / Merchant Navy Background: Often invoke prestige and global status to gain credibility.\n \n -Sudden Crisis Scenarios (“Detained at Airport”, “Medical Emergency”, “Bank Issue”): Fabricated urgency manipulates empathy-driven decision circuits.\n \n -Requests for Money Transfer via Bank Account / Digital Wallet: Always under emotional pressure or time-sensitive framing.\n \n -Emotional Overinvestment in a Short Timeframe: Intense attention, daily communication, and premature intimacy.\n \n -Disappearance After Payment: Ghosting behavior once trust utility exhausted.\n \n -Dual-Profile Grooming: Multiple fake identities running parallel to multiply emotional anchors."
   },
@@ -1324,7 +1446,10 @@
         "Optimism Bias",
         "Reciprocity Norm"
       ],
-    "Emotional Mechanisms": [ "Fear, Shame"],
+    "Emotional Mechanisms": [
+      "Fear",
+      "Shame"
+    ],
     "Source": "Times of India",
     "Common Signs": "Unsolicited video call from unknown number.\n \n -Female profile appears, quickly asks/takes undressing.\n \n -Almost immediate switch to male caller threatening exposure.\n \n -Morphed video footage used as blackmail.\n \n -Multiple transfers to different beneficiary accounts over short period.\n \n -Victim delays reporting due to shame/fear."
   },
@@ -1347,7 +1472,11 @@
         "Authority Bias",
         "Affect Heuristic"
       ],
-    "Emotional Mechanisms": ["Greed, Trust, Hope"],
+    "Emotional Mechanisms": [
+      "Greed",
+      "Trust",
+      "Hope"
+    ],
     "Source": "Times of India",
     "Common Signs": "Dating app match immediately discussing investments.\n \n -Claims of “crores earned” through special trading app.\n \n -Movement from dating app → WhatsApp → Telegram “VIP Group.”\n \n -Fake trading apps showing rapid unreal profits.\n \n -Pressure to invest increasing amounts repeatedly.\n \n -Withdrawal blocked with “tax” demands (25% rule is common).\n \n -Sudden disappearance after refusal to pay more."
   },
@@ -1369,7 +1498,11 @@
         "Reciprocity Norm",
         "Normalcy Bias"
       ],
-    "Emotional Mechanisms": [ "Social pressure, Embarrassment, Intimidation"],
+    "Emotional Mechanisms": [
+      "Social pressure",
+      "Embarrassment",
+      "Intimidation"
+    ],
     "Source": "Times of India",
     "Common Signs": "Woman insists on meeting at a specific bar/restaurant.\n \n -Ordering expensive items quickly (Blue Label, hookah, energy drinks).\n \n -Sparse crowd + intimidating male staff hovering.\n \n -Abrupt bill presentation with inflated charges.\n \n -“Why are you delaying payment?” used as pressure tactic.\n \n -Bill “discount” offered after protest to simulate fairness.\n \n -Payment QR code linked to personal UPI ID, not venue.\n \n -Woman pretending to pay her half.\n \n -Dissociation/ghosting after payment."
   },
@@ -1392,7 +1525,7 @@
         "Authority Bias",
         "Escalation of Commitment"
       ],
-    "Emotional Mechanisms": [ "Greed, Trust, Hope, Fear of loss"],
+    "Emotional Mechanisms": [ "Greed", "Trust", "Hope", "Fear of loss"],
     "Source": "Times of India",
     "Common Signs": "Dating matches quickly pushing investment discussions.\n \n -Highly polished websites showing unrealistic returns.\n \n -“Customer care” demanding deposits for taxes, fees, or withdrawal verification.\n \n -Requests to deposit increasingly large amounts to “unlock” funds.\n \n -Dual scammers operating simultaneously — a hallmark of organized pig-butchering syndicates.\n \n -No ability to withdraw even small amounts after major deposits.\n \n -Multiple bank accounts used for deposits (classic laundering pattern).\n \n -Romantic communication intertwined with financial persuasion."
   },
@@ -1413,7 +1546,7 @@
         "Authority Bias",
         "Confirmation Bias"
       ],
-    "Emotional Mechanisms": ["Fear, Shame, Panic"],
+    "Emotional Mechanisms": ["Fear", "Shame", "Panic"],
     "Source": "Times of India",
     "Common Signs": "Instagram reel asking to “call this number.”\n \n -Instant video call with sexual content.\n \n -Video call drops immediately after nude exposure.\n \n -QR-code demands to “stop upload.”\n \n -Fake platform worker + fake police officer tag-teaming threats.\n \n -Statement like “video is being uploaded right now.”\n \n -Legal threats (FIR, arrest, Section numbers) used to induce fear.\n \n -Repeated extortion even after payment."
   },
@@ -1434,7 +1567,13 @@
         "Loss Aversion",
         "Authority Bias"
       ],
-    "Emotional Mechanisms":["Fear, Shame, Intimidation, Panic, Desperation"],
+    "Emotional Mechanisms": [
+      "Fear",
+      "Shame",
+      "Intimidation",
+      "Panic",
+      "Desperation"
+    ],
     "Source": "Times of India",
     "Common Signs": "Random Facebook friend request from an attractive woman.\n \n -Immediate escalation to WhatsApp.\n \n -Pre-recorded fake nudity to induce compliance.\n \n -Instant threat call after victim exposure.\n \n -Multiple numbers used to manipulate emotionally.\n \n -Escalating payments despite initial compliance.\n \n -Threat to share/actual sharing of video with contacts.\n \n -Assurances like “pay and I will delete” are always fake."
   },
@@ -1455,7 +1594,13 @@
         "Sunk Cost Fallacy",
         "Hyperbolic Discounting"
       ],
-    "Emotional Mechanisms": [ "Fear, Shame, Intimidation, Panic, Desperation"],
+    "Emotional Mechanisms": [
+      "Fear",
+      "Shame",
+      "Intimidation",
+      "Panic",
+      "Desperation"
+    ],
     "Source": "Times of India",
     "Common Signs": "Push from dating app → Instagram → WhatsApp (classic scam migration path).\n \n -Extremely fast sexual escalation.\n \n -Pre-recorded nudity, not real-time interaction.\n \n -Sudden switch to manipulation within minutes.\n \n -Accessing Instagram contact list via profile syncing.\n \n -Threats like: “I’ll send to your family,” “pay or else.”\n \n -Escalating payment cycles despite initial compliance."
   },
@@ -1476,7 +1621,14 @@
         "Social Desirability Bias",
         "Loss Aversion"
       ],
-    "Emotional Mechanisms": ["Social Pressure, Embarrassment, Intimidation, Betrayal of Trust, Helplessness, Obligation"],
+    "Emotional Mechanisms": [
+      "Social Pressure",
+      "Embarrassment",
+      "Intimidation",
+      "Betrayal of Trust",
+      "Helplessness",
+      "Obligation"
+    ],
     "Source": "Reddit",
     "Common Signs": "Match taking unusual control and picking an unknown spot.\n \n Shady-looking bar chosen by the other person.\n \n Scammer ordering drinks despite victim not drinking.\n \n Scammer claiming they have no money after the bill arrives.\n \n Fake phone calls pretending to arrange payment.\n \n Leaving the victim under a flimsy excuse (“someone nearby will give money”).\n \n Staff applying pressure, suggesting they’re part of the scam.\n \n Bill amount far higher than reasonable for two people."
   },
@@ -1498,7 +1650,14 @@
         "Halo Effect",
         "Social Desirability Bias"
       ],
-    "Emotional Mechanisms": ["Social Pressure, Intimidation, Helplessness, Betrayal of Trust, Frustration, Anger"],
+    "Emotional Mechanisms": [
+      "Social Pressure",
+      "Intimidation",
+      "Helplessness",
+      "Betrayal of Trust",
+      "Frustration",
+      "Anger"
+    ],
     "Source": "Reddit",
     "Common Signs": "Girl pressuring to meet quickly.\n \n Girl choosing a specific venue and insisting on meeting there.\n \n Venue has rigged or coordinated staff behavior.\n \n Scammer orders very expensive items (Blue Label pegs).\n \n Ordering multiple pegs rapidly while the victim is away.\n \n Extra bill items mysteriously added.\n \n Staff trying to intimidate or corner the victim.\n \n Ridiculous pricing (₹1,000 cigarette pack, inflated alcohol costs).\n \n Scammer tries to leave the scene when tension rises.\n \n Emotional manipulation — “I got my periods.”\n \n Staff pretending it’s “normal” and pushing payment.\n \n Multiple other couples present, possibly other victims."
   }
