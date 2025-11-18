@@ -10,8 +10,14 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Early 20s",
     "Gender": "Male",
-    "Cognitive Bias": "- Halo Effect: Attractive match perceived as genuine and trustworthy.\n - Optimism Bias: Expected a normal date experience, underestimated risk.\n - Sunk-Cost Fallacy: Continued paying once the bill accumulated.\n - Commitment Bias: Felt obliged to pay since he had already agreed to the meeting.",
-    "Neural Process": "- Reward Prediction Error: Anticipated romantic/social reward; instead faced unexpected financial loss.\n- Amygdala Activation: Panic and stress response during confrontation at café.\n- Short-Term Decision Making under Stress: Paid the amount to avoid embarrassment or conflict.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Sunk Cost Fallacy",
+        "Escalation of Commitment",
+        "Social Desirability Bias",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms": ["Hope, Trust, Vulnerability, Deception, Manipulation, Exploitation, Coercion, Embarrassment, Fear, Betrayal, Anger, Regret, Distrust, Greed"],
     "Source": "Reddit",
     "Common Signs": ""
@@ -27,8 +33,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "- Halo Effect: Attractive match gives trust quickly.\n - Optimism Bias/Perceived Control: Expectation of a date, normal meetup, underestimating risk.\n - Commitment Bias/Sunk-Cost Fallacy: Once in situation and spending, less likely to leave.",
-    "Neural Process": "- Reward prediction error: Expectation of social/romantic reward, but outcome is negative.\n- Short-term decision making under social/emotional pressure: Paying up to avoid embarrassment.\n- Amygdala activation: Possibly stress/fear when confronted with large bill or sense of trap.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Escalation of Commitment",
+        "Sunk Cost Fallacy",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms": ["Exploitation of Trust, Deception, Social Engineering, Vulnerability (preying on), Shock, Betrayal, Anger"],
     "Source": "Reddit",
     "Common Signs": ""
@@ -44,8 +55,11 @@
     "Scammed? Yes or No": "No",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "- Confirmation Bias (resisted): The victim did not let attraction override suspicion.\n - Optimism Bias (avoided): Didn’t assume quick affection meant genuineness.\n - Suspicion/Pattern Recognition: Cognitive awareness of red flags overcame emotional influence.",
-    "Neural Process": "- Prefrontal Cortex Activation: Rational reasoning over emotional impulses.\n- Amygdala Regulation: Controlled emotional arousal during flattery phase.\n- Reward System Inhibition: Avoided dopamine-driven impulsivity due to cautious evaluation.",
+    "Cognitive Bias": [
+        "Confirmation Bias",
+        "Optimism Bias",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms": [
       "Urgency, Flattery, Pressure, Secrecy"
     ],
@@ -63,8 +77,14 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "- Halo Effect: Physical attractiveness (“looked better than photos”) overrode risk perception.\n - Optimism Bias: Belief that nothing serious could happen.\n - Social Proof Bias: Public place created false sense of safety.\n - Sunk-Cost Fallacy: Continued interaction even after multiple red flags.\n - Cognitive Dissonance: Recognized warning signs but justified staying due to social craving.",
-    "Neural Process": "- Reward Circuit Overactivation (Dopamine Pathway): Anticipation of companionship overshadowed logical evaluation.\n- Prefrontal Cortex Inhibition: Emotional arousal reduced executive reasoning and impulse control.\n- Amygdala Hijack (Stress Response): Panic when confronted with ₹45k bill led to compliance.\n- Threat Response Activation: Paid reduced amount to avoid confrontation or legal complications.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Sunk Cost Fallacy",
+        "Escalation of Commitment",
+        "Anchoring",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms": ["Deception, Control, Manipulation, Indifference, Abandonment, Isolation, Pressure, Fear, Shock"],
     "Source": "Reddit",
     "Common Signs": ""
@@ -80,8 +100,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "- Halo Effect: perceived the girl as “decent and simple,” lowering suspicion.\n - Social Proof / Normalcy Bias: assumed the bar experience was normal.\n - Optimism Bias: underestimated the likelihood of being scammed.\n - Commitment Bias: once inside and ordering began, felt obligated to continue.\n - Fear Response Bias: intimidation prevented rational action or escape.",
-    "Neural Process": "- Amygdala Hijack: fear and stress response triggered during assault, reducing logical thinking.\n \n- Reward Circuit Activation: initial excitement about meeting someone new impaired risk assessment.\n \n- Prefrontal Cortex Suppression: high emotional arousal reduces rational judgment and decision-making.\n \n- Social Bonding Neurochemistry: trust-building via conversation increases oxytocin, lowering defenses.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Escalation of Commitment",
+        "Loss Aversion",
+        "Authority Bias"
+      ],
     "Emotional Mechanisms":[ "Deception, Building Rapport, Manipulation, Enticement, Abandonment, Intimidation, Threat, Physical Coercion, Fear"],
     "Source": "Reddit",
     "Common Signs": "Girl insisting on a particular bar (common scam pattern).\n \n Ordering many expensive items without hesitation.\n \n Sudden excuses and disappearing during billing.\n \n Staff aggressive, unprofessional, or unusually forceful.\n \n Inflated, unrealistic bill amounts (₹5k for hookah, ₹5k for pyros).\n \n Fake emergencies (“periods,” “calling friends”).\n \n Refusing to split or discuss bill.\n \n Bar staff siding with the girl immediately."
@@ -97,8 +122,14 @@
     "Scammed? Yes or No": "Potential",
     "Age": "20s-30s",
     "Gender": "Female",
-    "Cognitive Bias": "- Optimism Bias: Belief in the long-distance romantic relationship despite lack of verification.\n - Halo Effect: The supposed “celebrity” image made the conversation appear credible.\n - Sunk-Cost Fallacy: A 4-year ongoing relationship increases emotional investment.\n - Confirmation Bias: Possibly ignoring red flags because she wants to believe the relationship.",
-    "Neural Process": "- Reward Circuit Activation (Dopamine): Long-term attachment and anticipation of possibly finally meeting.\n- Oxytocin/Bonding Hormone Involvement: Over years of WhatsApp conversation, emotional attachment builds.\n- Prefrontal Cortex Suppression: Long emotional grooming may reduce critical evaluation.",
+    "Cognitive Bias": [
+        "Optimism Bias",
+        "Halo Effect",
+        "Sunk Cost Fallacy",
+        "Confirmation Bias",
+        "Escalation of Commitment",
+        "Affect Heuristic"
+      ],
     "Emotional Mechanisms": [ "Trust, Hope, Love, Loneliness, Desire for Connection, Attachment, Fantasy"],
     "Common Signs": ""
   },
@@ -113,8 +144,12 @@
     "Scammed? Yes or No": "No",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "- Halo Effect: Attractiveness and spontaneity of the girl reduced initial caution.\n- Optimism Bias: “Maybe this one is genuine.”\n- Pattern Recognition (Protective Cognition): Recollection of similar Reddit scam stories triggered skepticism.\n- Confirmation Bias (corrective): Actively verified environment before committing.\n- Loss Aversion: Decided to avoid confrontation and potential loss by withdrawing early.",
-    "Neural Process": "- Prefrontal Cortex Activation: Rational processing regained dominance as red flags accumulated.\n- Amygdala Activation: Mild fear/anxiety heightened situational awareness.\n- Reward System Dampening: Dopamine-driven excitement reduced when environment mismatched expectation.\n- Cognitive Control Network: Managed impulse to stay due to logical override.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Confirmation Bias",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms":["Curiosity, Desire for Connection, Suspicion, Caution, Relief"],
     "Source": "Reddit",
     "Common Signs": ""
@@ -130,8 +165,11 @@
     "Scammed? Yes or No": "No",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "- Curiosity & Novelty Bias: Initial urge to engage mitigated by suspicion.\n - Risk Aversion: Preemptive protective behavior (covering the camera).\n - Pattern Recognition: Intuitive identification of suspicious behavior.\n - Self-Control Bias: Rational override of instinctual reaction to visual stimuli.",
-    "Neural Process": "-Amygdala Activation: Early fear/suspicion triggered threat detection.\n - Prefrontal Cortex Dominance: Rational evaluation led to defensive behavior (covering camera).\n - Reward Circuit Inhibition: Avoided dopamine impulse related to sexual stimuli.\n - Cognitive Control Network: Maintained inhibitory control despite stimulus intensity.",
+    "Cognitive Bias": [
+        "Conservatism",
+        "Loss Aversion",
+        "Hyperbolic Discounting"
+      ],
     "Emotional Mechanisms": ["Curiosity, Suspicion, Caution, Prudence, Relief, Discomfort"],
     "Source": "Reddit",
     "Common Signs": ""
@@ -147,8 +185,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Early 20s",
     "Gender": "Male",
-    "Cognitive Bias": "- Trust heuristic: Early assumption that an online match with mutual interest is genuine.\n - Social proof bias: Presence on known social media platforms created false legitimacy.\n - Reciprocity bias: Felt compelled to reciprocate vulnerability (nudity) when the scammer initiated.\n - Immediate reward bias: Emotional arousal suppressed rational thinking and risk assessment.\n - Loss aversion: Paid money to avoid perceived catastrophic social loss and humiliation.",
-    "Neural Process": "- Amygdala and limbic system activation due to fear and panic during the extortion phase.\n \n- Reward pathways (dopaminergic activity) during initial flirtation and video call.\n \n- Prefrontal cortex deactivation under stress, impairing decision-making and impulse control.\n \n- HPA axis activation causing prolonged anxiety, guilt, and hypervigilance after the scam.",
+    "Cognitive Bias": [
+        "Reciprocity Norm",
+        "Loss Aversion",
+        "Hyperbolic Discounting",
+        "Affect Heuristic"
+      ],
     "Emotional Mechanisms": ["Desire for Intimacy, Trust, Fear, Shame, Anxiety, Embarrassment, Vulnerability, Distress"],
     "Source": "Reddit",
     "Common Signs": "> switching to other platforms\n \n > asking for all other social media\n \n > threats to share with family/friends\n \n > pressure of sexual exposure"
@@ -164,8 +206,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "- Affect heuristic: Emotional closeness influenced trust and risk perception.\n \n- Commitment bias: Continued trusting behavior due to emotional and sexual investment.\n \n- Confirmation bias: Ignored red flags (cash demands, repeated borrowing) to preserve relationship narrative.\n \n- Sunk cost fallacy: Continued giving money hoping for reciprocity or romantic fulfillment.\n \n- Optimism bias: Believed the relationship would culminate in a stable partnership.",
-    "Neural Process": "Oxytocin and dopamine release reinforced bonding and trust after intimacy.\n \n Prefrontal cortex inhibition under emotional attachment reduced critical assessment of risk.\n \n Amygdala response later triggered intense anxiety and betrayal after realization.\n \n Insula activation linked to shame and social rejection fears (especially around sexuality).",
+    "Cognitive Bias": [
+        "Affect Heuristic",
+        "Escalation of Commitment",
+        "Confirmation Bias",
+        "Sunk Cost Fallacy",
+        "Optimism Bias"
+      ],
     "Emotional Mechanisms":["Love, Trust, Hope, Betrayal, Devastation, Fear, Vulnerability, Loneliness, Heartbreak"],
     "Source": "Reddit",
     "Common Signs": "> sudden financial requests\n \n > cash payments\n \n > promise of marriage\n \n > inconsistent details about location or background\n \n > victim hesitant because of sexual orientation"
@@ -181,8 +228,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "- Halo effect: Attracted by physical appearance and friendliness of the girl, leading to reduced suspicion.\n \n- Normalcy bias: Believed meeting at a public café would be safe and normal.\n \n- Social conformity bias: Avoided confrontation or making a scene in public.\n \n- Optimism bias: Underestimated the possibility of fraud.\n \n- Cognitive dissonance: Even after suspecting a scam, rationalized the situation to maintain composure.",
-    "Neural Process": "Reward circuitry (ventral striatum) activation from the perceived romantic opportunity.\n \n Suppressed prefrontal cortex activity under emotional excitement reduces critical decision-making.\n \n Amygdala desensitization from perceived trust and familiarity of a public space.\n \n Insula involvement later, processing loss, anger, and moral violation.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Social Desirability Bias",
+        "Affect Heuristic",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms":[
     "Desire for connection",
     "Trust",
@@ -202,15 +254,19 @@
     "Scammed? Yes or No": "Yes",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "- Trust bias: Believed the scammer due to familiarity built over chat.\n \n- Commitment and consistency bias: Continued sending money after initial payment to remain consistent.\n \n- Authority/credibility bias: The scammer appeared professional and reassuring, mimicking legitimacy.\n \n- Optimism bias: Expected a positive outcome (meetup) despite warning signs.\n \n- Reciprocity bias: Felt compelled to “honor trust” after the scammer’s emotional cues like “pura safe hai.”",
-    "Neural Process": "Ventral striatum activation due to anticipation of reward (romantic/sexual gratification).\n \n Prefrontal cortex suppression reduced critical reasoning under emotional arousal.\n \n Amygdala modulation through trust-building reduced fear responses.\n \n Insula activity triggered later during realization, linked to disgust and regret after loss.",
+    "Cognitive Bias": [
+        "Optimism Bias",
+        "Escalation of Commitment",
+        "Reciprocity Norm",
+        "Affect Heuristic"
+      ],
     "Emotional Mechanisms": [
-    "Desire for connection",
-    "Emotional manipulation",
-    "Trust",
-    "Urgency",
-    "Anticipation"
-  ],
+      "Desire for connection",
+      "Emotional manipulation",
+      "Trust",
+      "Urgency",
+      "Anticipation"
+    ],
     "Source": "Reddit",
     "Common Signs": "> shifting off-platform\n \n > paid meetup, advance payments\n \n > emotional persuasion\n \n > avoids video/voice calls"
   },
@@ -225,8 +281,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "- Attractiveness bias: Overestimated trustworthiness due to physical appeal.\n \n- Scarcity bias: “Married but available rarely” narrative increased perceived exclusivity.\n \n- Authority bias: Her sophistication (talking about investment banking) enhanced credibility.\n \n- Commitment bias: Having already agreed to meet and spend, he felt compelled to go through with the plan.\n \n- Optimism bias: Expected intimacy/reward without considering risk.",
-    "Neural Process": "Attractiveness bias: Overestimated trustworthiness due to physical appeal.\n \n Scarcity bias: “Married but available rarely” narrative increased perceived exclusivity.\n \n Authority bias: Her sophistication (talking about investment banking) enhanced credibility.\n \n Commitment bias: Having already agreed to meet and spend, he felt compelled to go through with the plan.\n \n Optimism bias: Expected intimacy/reward without considering risk.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Scarcity Effect",
+        "Authority Bias",
+        "Escalation of Commitment",
+        "Optimism Bias"
+      ],
     "Emotional Mechanisms": [
     "Desire for connection",
     "Trust",
@@ -247,8 +308,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "- Attractiveness bias: Trusted the girl more due to physical attraction.\n \n- Optimism bias: Believed the date would go well and didn’t anticipate deception.\n \n- Social conformity bias: Felt pressured to comply with the staff’s demands due to social norms and fear of confrontation.\n \n- Loss aversion: Paid up to avoid further escalation or police involvement.",
-    "Neural Process": "Activation of the reward system (dopaminergic pathways) anticipating social/romantic reward.\n \n Suppression of amygdala-based threat detection due to trust and excitement.\n \n Post-scam, stress circuits (HPA axis) activated leading to anxiety, regret, and anger.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Social Desirability Bias",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms":  [
     "Desire for connection",
     "Social pressure",
@@ -269,8 +334,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "- Optimism Bias: Believing the situation would remain safe and normal.\n \n- Authority Bias: Assuming the café was legitimate and the girl trustworthy because she confidently selected it.\n \n- Trust Bias / Halo Effect: Trusting her reassurance and friendliness.\n \n- Normalcy Bias: Continuing despite small warning signs, expecting nothing unusual would occur.\n \n- Anchoring Bias: Fixating on her statement that her “brother would pay,” reducing financial vigilance.",
-    "Neural Process": "Reward Pathway Activation (Ventral Striatum, Dopamine Surge): Anticipation of romantic connection reduced cognitive vigilance.\n \n Amygdala Underactivity During Initial Phase: Lowered fear and risk perception during social bonding.\n \n Sudden Amygdala Overactivation: Acute fear and stress response once threats occurred (fight-or-flight).\n \n HPA Axis Activation: Physiological stress cascade (cortisol release) due to intimidation and loss of control.\n \n Post-Event Neural Encoding: Strong memory consolidation due to emotional trauma (amygdala-hippocampal interaction).",
+    "Cognitive Bias": [
+        "Optimism Bias",
+        "Authority Bias",
+        "Halo Effect",
+        "Anchoring",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms":[
     "Desire for connection",
     "False reassurance",
@@ -293,8 +363,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Early 20s",
     "Gender": "Male",
-    "Cognitive Bias": "Attraction Bias / Halo Effect: Trusting the woman’s intentions due to perceived romantic interest and appearance.\n \n Optimism Bias: Believing the date invitation was genuine rather than suspicious.\n \n Conformity Bias: Paying without protest to avoid public embarrassment or confrontation.\n \n Affect Heuristic: Emotional excitement about the date led to diminished critical thinking.\n \n Loss Aversion: Avoided confrontation even after suspecting the scam to prevent greater perceived loss (social or reputational).",
-    "Neural Process": "Dopamine Activation (Ventral Striatum): Triggered by romantic anticipation and social validation.\n \n Reduced Prefrontal Cortex Inhibition: Emotional arousal impaired financial judgment.\n \n Amygdala Overactivation Post-Scam: Fear, regret, and embarrassment following realization.\n \n Hippocampal Encoding: Event likely encoded strongly as a negative social memory due to emotional salience.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Social Desirability Bias",
+        "Affect Heuristic",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms": ["Desire for connection, Trust, Shock, Powerlessness, Fear of confrontation, Social embarrassment, Disillusionment, Distrust"],
     "Source": "Reddit",
     "Common Signs": "> sudden romantic interest\n \n > specific restaurant\n \n > popular, public area\n \n > scammer acts relaxed\n \n > victim is socially pressured"
@@ -310,8 +385,14 @@
     "Scammed? Yes or No": "Yes",
     "Age": "30s-40s",
     "Gender": "Male",
-    "Cognitive Bias": "Halo Effect: Trust derived from the woman’s articulate, professional, and relatable personality.\n \n Confirmation Bias: Evidence of authenticity (realistic conversation, live location, meeting in person) reinforced belief she was genuine.\n \n Commitment Bias: Once emotionally and temporally invested, the victim continued even when doubts arose.\n \n Authority Bias: Her use of technical and industry-specific language created a perception of credibility.\n \n Affect Heuristic: Emotional arousal (flirtation, anticipation of intimacy) clouded logical risk assessment.\n \n Sunk Cost Fallacy: After spending time and effort, he felt compelled to continue despite mild suspicions.",
-    "Neural Process": "Ventral Tegmental Area (VTA) and Nucleus Accumbens: Dopaminergic activation due to sexual and emotional anticipation.\n \n Prefrontal Cortex Suppression: Decision-making and critical reasoning reduced under social and sexual reward expectation.\n \n Amygdala and Insula: Subtle threat detection signals overridden by social bonding cues.\n \n Anterior Cingulate Cortex (ACC): Cognitive dissonance processing during the “something felt wrong” moment.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Confirmation Bias",
+        "Escalation of Commitment",
+        "Authority Bias",
+        "Affect Heuristic",
+        "Sunk Cost Fallacy"
+      ],
     "Emotional Mechanisms": ["Trust building, Desire for connection, Emotional investment, Manipulation, Deception, Social validation, Cognitive bias"],
     "Source": "Reddit",
     "Common Signs": "> well-developed scammer persona - appears knowledgeable, emotionally engaging \n \n > off-platform conversation\n \n > private meet-ups\n \n > cash-only payments which are untraceable\n \n > emotional, sexual pretext"
@@ -327,9 +408,14 @@
     "Scammed? Yes or No": "Yes",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "Optimism Bias: Believing such scams happen to others, not oneself.\n \n Halo Effect: Assuming trustworthiness due to the woman’s appearance or normal demeanor.\n \n Authority/Conformity Bias: Complying with the situation due to fear of social embarrassment or confrontation.\n \n Affect Heuristic: Allowing emotional excitement from the prospect of a date to override logical risk evaluation.\n \n Normalcy Bias: Interpreting unfolding events (like expensive orders) as part of a normal date rather than a scam.",
-    "Neural Process": "Dopaminergic Reward Pathway Activation (Ventral Striatum): Triggered by romantic anticipation and social validation from matching.\n \n Reduced Prefrontal Cortex Inhibition: Emotional arousal led to diminished rational cost-benefit evaluation.\n \n Amygdala and Insula Activity: Heightened emotional response and fear once the scam was realized; post-event stress and rumination engage the limbic system.",
-    "Emotional Mechanisms": ["Desire for connection, Trust, Shock, Fear of confrontation, Social embarrassment, Powerlessness, Shame, Anger, Betrayal"],
+    "Cognitive Bias": [
+        "Optimism Bias",
+        "Halo Effect",
+        "Authority Bias",
+        "Affect Heuristic",
+        "Status-Quo Bias"
+      ],
+    "Emotional Mechanisms": ["Desire for connection", "Trust", "Shock", "Fear of confrontation", "Social embarrassment", "Powerlessness", "Shame", "Anger", "Betrayal"],
     "Source": "Reddit",
     "Common Signs": "> specific or unfamiliar restaurant/bar.\n \n > busy area but lesser-known establishment.\n \n > companion orders expensive alcohol or hookah\n \n > unusual staff behaviour\n \n > victim is subtly pressured to pay, often by social expectation or avoidance of conflict.\n  \n > no discussion of splitting the bill or payment beforehand.\n \n > scammer appears confident, relaxed, and socially in control, reducing suspicion."
   },
@@ -344,8 +430,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Trust Bias / Optimism Bias: Assuming others on dating apps have good intentions.\n \n Halo Effect: Attributing trustworthiness to the person due to physical attractiveness or friendly communication.\n \n Reciprocity Bias: Feeling obliged to meet because of engaging conversation or perceived interest from the other person.\n \n Social Proof: Believing such meetings are normal because others often meet through these apps.",
-    "Neural Process": "Activation of the reward circuitry (ventral striatum, nucleus accumbens) due to anticipation of romantic or sexual reward.\n \n Reduced prefrontal cortex regulation during emotional arousal, leading to poor risk assessment.\n \n Amygdala engagement in evaluating social cues but overridden by dopaminergic motivation pathways.",
+    "Cognitive Bias": [
+        "Optimism Bias",
+        "Halo Effect",
+        "Reciprocity Norm",
+        "Availability Heuristic"
+      ],
     "Emotional Mechanisms":["Desire for connection, Trust, Deception, Coercion, Fear, Powerlessness, Regret"],
     "Source": "Reddit",
     "Common Signs": ""
@@ -361,8 +451,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "Trust bias: Overestimating the genuineness of online interactions due to sustained positive communication.\n \n Reciprocity bias: Feeling obliged to engage when the scammer appeared vulnerable and open.\n \n Affect heuristic: Emotional attachment overriding rational caution.\n \n Optimism bias: Believing “this won’t happen to me.”",
-    "Neural Process": "Activation of the mesolimbic dopamine pathway (reward circuit) due to perceived romantic interest and attention, leading to reduced activity in the prefrontal cortex (responsible for risk assessment and impulse control).",
+    "Cognitive Bias": [
+        "Affect Heuristic",
+        "Reciprocity Norm",
+        "Optimism Bias",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms": ["Trust building, Emotional connection, Vulnerability, Deception, Blackmail, Fear, Shame, Self-blame, Distrust, Disgust"],
     "Source": "Reddit",
     "Common Signs": ""
@@ -378,8 +472,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Trust bias: Believing emotionally relatable stories (recent breakup, new in city).\n \n Empathy bias: Responding compassionately to perceived vulnerability.\n \n Optimism bias: Underestimating likelihood of being targeted in a known scam-prone area.\n \n Moral outrage bias (post-scam): Heightened emotional drive to expose injustice and systemic corruption.",
-    "Neural Process": [],
+    "Cognitive Bias": [
+        "Affect Heuristic",
+        "Empathy Bias",
+        "Optimism Bias",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms": ["Betrayal, Fear, Intimidation, Frustration, Helplessness, Anger"],
     "Source": "Reddit",
     "Common Signs": ""
@@ -395,9 +493,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Trust bias: Believing the woman’s story about being new to the city.\n \n Social desirability bias: Agreeing to meet at her preferred location to appear accommodating.\n \n Normalcy bias: Underestimating the likelihood of a scam in a casual social setting.\n \n Fear-induced compliance: Paying the inflated bill under intimidation and group pressure.",
-    "Neural Process": "Amygdala hyperactivation: Intense fear response under threat when surrounded by multiple men.\n \n Prefrontal cortex suppression: Reduced executive control due to stress and social pressure.\n \n HPA axis activation: Stress response triggering fight-or-flight behavior leading to payment compliance.\n \n Insula activity: Emotional disgust and violation after realizing the scam and diluted drinks.",
-    "Emotional Mechanisms": ["Deception, Intimidation, Shock, Vulnerability, Frustration"],
+    "Cognitive Bias": [
+        "Optimism Bias",
+        "Social Desirability Bias",
+        "Authority Bias",
+        "Loss Aversion"
+      ],
+    "Emotional Mechanisms": ["Deception", "Intimidation", "Shock", "Vulnerability", "Frustration"],
     "Source": "Reddit",
     "Common Signs": ""
   },
@@ -412,8 +514,11 @@
     "Scammed? Yes or No": "No",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Optimism bias: Initially open to spontaneous meeting, expecting genuine intent.\n \n Suspicion correction bias (adaptive awareness): Rapidly corrected his optimism bias by identifying behavioral inconsistencies.\n \n Negativity bias (in hindsight): Strong learning from perceived threat to avoid future risk.\n \n Confirmation bias (protective): Interpreted behavior in line with suspicion once red flags appeared — helpful in avoiding loss.",
-    "Neural Process": "Prefrontal cortex engagement: Strong cognitive control and vigilance overriding social reward anticipation.\n \n Amygdala activation: Detection of potential threat triggered defensive behavior and situational withdrawal.\n \n Anterior cingulate cortex (ACC): Conflict monitoring between approach motivation and risk cues.\n \n Dopaminergic reward inhibition: Suppression of romantic reward expectation due to fear and suspicion.",
+    "Cognitive Bias": [
+        "Optimism Bias",
+        "Confirmation Bias",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms": ["Suspicion, Distrust, Caution, Relief"],
     "Source": "Reddit",
     "Common Signs": ""
@@ -429,8 +534,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Early 20s",
     "Gender": "Male",
-    "Cognitive Bias": "Trust bias: Over-trusting a new acquaintance met online.\n \n Novelty bias: Overlooking risks due to excitement and novelty of a dating app meeting.\n \n Authority/compliance bias: Yielding to pressure from bar staff claiming authority (e.g., threat to call police).\n \n Optimism bias: Assuming “it won’t happen to me,” leading to disregard of red flags.",
-    "Neural Process": "Prefrontal cortex under-activation: Diminished risk assessment due to emotional and social arousal.\n \n Amygdala hyperactivation: Fear and anxiety when threatened, leading to compliance and quick payment.\n \n Insula involvement: Processing of disgust and violation upon realization of being scammed.\n \n Reward circuitry (dopaminergic pathway): Initial excitement about a romantic encounter biasing decision-making.",
+    "Cognitive Bias": [
+        "Optimism Bias",
+        "Authority Bias",
+        "Loss Aversion",
+        "Affect Heuristic"
+      ],
     "Emotional Mechanisms":["Deception, Betrayal, Intimidation, Frustration, Helplessness"],
     "Source": "Reddit",
     "Common Signs": ""
@@ -446,8 +555,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Loneliness bias / affective forecasting: Expecting emotional fulfillment from a date clouded rational judgment.\n \n Trust bias: Overestimating the trustworthiness of a stranger met online.\n \n Social proof / urgency effect: Compliance due to social pressure and the perceived rush to reach the bar.\n \n Sunk cost fallacy: Continued engagement despite early red flags (waiting an hour, being rushed).",
-    "Neural Process": "Reward circuitry activation (ventral striatum, nucleus accumbens): Anticipation of social and romantic reward heightened risk-taking.\n \n Prefrontal cortex under-activation: Reduced cognitive control and risk evaluation under emotional arousal.\n \n Amygdala involvement: Heightened emotional salience of the situation, leading to impulsive compliance.",
+    "Cognitive Bias": [
+        "Affect Heuristic",
+        "Optimism Bias",
+        "Social Desirability Bias",
+        "Sunk Cost Fallacy",
+        "Hyperbolic Discounting"
+      ],
     "Emotional Mechanisms":["Loneliness, Vulnerability, Deception, Coercion, Intimidation, Frustration, Betrayal, Helplessness"],
     "Common Signs": ""
   },
@@ -462,8 +576,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Halo Effect: Attractiveness and social charm reduced suspicion.\n - Optimism Bias: Expected a normal social meeting in a public space.\n - Social Norm Bias: Politeness prevented confrontation when red flags appeared.\n - Sunk-Cost Fallacy: Continued the outing despite early doubts (“what’s the worst that can happen”).",
-    "Neural Process": "Reward System Activation (Dopamine Surge): Anticipation of companionship and novelty overshadowed risk assessment.\n - Amygdala Suppression: Trust and flattery dulled fear detection.\n - Prefrontal Cortex Delay: Logical evaluation only reactivated during billing conflict.\n - Stress Response (Amygdala–HPA Axis): Triggered once scam became explicit — panic, anger, adrenaline spike.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Social Desirability Bias",
+        "Sunk Cost Fallacy",
+        "Anchoring"
+      ],
     "Emotional Mechanisms": ["Betrayal, Shock, Anger, Feeling foolish"],
     "Source": "Reddit",
     "Common Signs": "Quick move from chatting to meeting (2 days).\n - Girl insists on a specific café near a landmark.\n - Orders hookah or alcohol despite victim’s reluctance.\n - Makes excuse to leave mid-meal, never returns.\n - Inflated bill with hidden “cabin” or “flavor” charges.\n - Staff reduce bill instantly when threatened with police.\n - Police unresponsive or aware but inactive — suggesting systemic collusion."
@@ -479,8 +598,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Halo Effect: Physical attraction and politeness lowered guard.\n - Optimism Bias: Belief that the invitation was genuine.\n - FOMO (Fear of Missing Out): Desire for spontaneous connection in new social setting.\n - Sunk-Cost Fallacy: Continued after minor red flags (entry fee, high prices).",
-    "Neural Process": "Reward System Activation (Dopamine): Anticipation of companionship overshadowed risk evaluation.\n - Amygdala Suppression: Positive social cues reduced threat awareness.\n - Prefrontal Cortex Lag: Logical reasoning delayed until bill shock.\n - Cognitive Rebound: Realization triggered immediate aversion and regret.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Sunk Cost Fallacy",
+        "Hyperbolic Discounting"
+      ],
     "Emotional Mechanisms": ["Betrayal, Shock, Anger, Distrust, Disappointment"],
     "Source": "Reddit",
     "Common Signs": "Meeting initiated very soon after matching.\n - Girl insists on specific bar/café.\n - Inflated menu prices or hidden “entry fees.”\n - Girl orders alcoholic drinks and mixers immediately.\n - Casual attitude or early exit after ordering.\n - Victim experiences quick realization and emotional shock.\n - Café likely in collusion with scammer."
@@ -496,8 +619,12 @@
     "Scammed? Yes or No": "No",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Halo Effect (Initial): Attractive profile lowered early suspicion.\n - Optimism Bias: Expected a genuine social meeting.\n - Pattern Recognition Bias (Protective): Recognition of familiar scam indicators (multiple people, empty café, hookah setup).\n - Confirmation Bias (Corrective): Validated instinct by Googling café reviews.",
-    "Neural Process": "Prefrontal Cortex Activation: Rational evaluation and real-time information retrieval (searching reviews).\n - Amygdala Activation: Suspicion and mild threat response heightened alertness.\n - Reward Circuit Regulation: Inhibiting impulsive excitement (dopamine control) to prioritize safety.\n - Cognitive Control Network: Assertiveness and refusal despite social pressure.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Confirmation Bias",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms": ["Suspicion, Unease, Apprehension, Fear, Anger, Distrust"],
     "Source": "Reddit",
     "Common Signs": "Girl insists on quick meetup after few chats.\n - Meeting at public but nearby shady café suggested by her.\n - Companion friends accompany her to add false legitimacy.\n - Café appears nearly empty with few male patrons.\n - Hookah on tables — common setup in Kolkata scams.\n - Google reviews of the café show similar scam patterns.\n - Scammer becomes slightly pushy but not aggressive when victim hesitates.\n - Leaving early avoids financial and emotional loss."
@@ -513,8 +640,11 @@
     "Scammed? Yes or No": "No",
     "Age": "Early 20s",
     "Gender": "Female",
-    "Cognitive Bias": "Trust Bias: Willingness to connect and share due to positive first impression.\n - Optimism Bias: Initial belief that the person was genuine.\n - Negativity Bias (after threat): Over-focusing on potential harm despite low evidence.\n - Loss Aversion: Fear of reputational damage outweighed rational assessment of actual threat.",
-    "Neural Process": "Amygdala Hyperactivation: Triggered intense fear and anxiety upon threat.\n - Prefrontal Cortex Impairment: Rational reasoning weakened under panic.\n - Hypothalamic–Pituitary–Adrenal (HPA) Axis: Stress hormones (cortisol, adrenaline) surged during the blackmail period.\n - Reward/Relief Circuit Activation: Blocking scammer provided temporary emotional relief.",
+    "Cognitive Bias": [
+        "Optimism Bias",
+        "Loss Aversion",
+        "Availability Heuristic"
+      ],
     "Emotional Mechanisms":["Fear, Intimidation, Anxiety, Betrayal, Panic, Humiliation"],
     "Source": "Reddit",
     "Common Signs": "Scammer moves very fast to personal chat (WhatsApp).\n - Sends photos early and requests reciprocation.\n - Uses fake or stolen images (reverse image search reveals truth).\n - Threatens to edit and post images to coerce payment.\n - Gradually lowers ransom demand, showing desperation.\n - Stops contact when victim refuses and blocks.\n - Relies entirely on fear of exposure, not actual possession of material."
@@ -530,8 +660,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "Commitment & Consistency Bias: Continued to believe her due to long-term investment.\n - Confirmation Bias: Ignored red flags, focusing on signs of affection.\n - Optimism Bias: Believed relationship could still be genuine despite contradictions.\n - Empathy Trap: Responded compassionately to her fake suicide threat.\n - Sunk-Cost Fallacy: Emotional and financial investment made withdrawal harder.",
-    "Neural Process": "Chronic Dopamine Conditioning: Regular affectionate communication reinforced attachment loops.\n - Amygdala–Hippocampal Hijack: Stress and emotional trauma impaired memory integration and rational control.\n - Prefrontal Cortex Fatigue: Prolonged emotional strain led to decision paralysis and confusion.\n - Oxytocin Loop Reinforcement: Ongoing intimacy and communication deepened trust and dependency.\n - Stress Circuit Activation (HPA Axis): Sustained anxiety from manipulation and gaslighting.",
+    "Cognitive Bias": [
+        "Escalation of Commitment",
+        "Confirmation Bias",
+        "Optimism Bias",
+        "Affect Heuristic",
+        "Sunk Cost Fallacy"
+      ],
     "Emotional Mechanisms": ["Betrayal, Gaslighting, Emotional manipulation, Deception, Heartbreak, Psychological fatigue, Guilt"],
     "Source": "Reddit",
     "Common Signs": "Fast emotional bonding despite short acquaintance.\n - Avoids video calls or verifiable identity proof.\n - Multiple fake personas (boyfriend, relative, authority figures).\n - Emotional manipulation via guilt, fake crises, or suicide threats.\n - Financial dependence or small loan requests.\n - Deflection when confronted, shifting blame or narrative.\n - Institutional apathy when reported (college ignoring complaint).\n - Long-term psychological fatigue and trauma symptoms in the victim."
@@ -547,8 +682,14 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Halo Effect: Attractive fake profiles lower suspicion.\n - Optimism Bias: Victims assume it’s a normal date scenario.\n - Social Proof Bias: Being in a public bar gives false sense of safety.\n - Commitment Bias: Once seated and orders placed, victims feel obligated to continue.\n - Authority & Fear Bias: Threats of false molestation charges trigger compliance.",
-    "Neural Process": "Dopamine Overdrive: Anticipation of romantic/social reward overrides risk processing.\n - Amygdala Hijack: Sudden threat (bouncers, accusations) induces panic response and immediate compliance.\n - Prefrontal Cortex Shutdown: Under stress and fear, logical decision-making collapses.\n - HPA Axis Activation: Fight-or-flight response engaged during confrontation.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Availability Heuristic",
+        "Escalation of Commitment",
+        "Authority Bias",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms": ["Fear, Intimidation, Social pressure, Desire for romance"],
     "Source": "Reddit",
     "Common Signs": "Match moves quickly from chatting to meeting.\n - Meeting location is pre-selected shady bar/café (e.g., Red Room, Godfather Lounge).\n - Overpriced hookah and drinks appear on bill.\n - Victim pressured to pay via fear of legal or physical harm.\n - Staff collusion: management, waiters, and bouncers all involved.\n - Girl disappears post-payment, later returns to trap new victims.\n - Same names reused (Maya, Kajal, Muskan).\n - Victims beaten or blackmailed if they resist payment."
@@ -564,8 +705,11 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Curiosity Bias: Intrigued by novelty of anonymous dating interaction.\n - Present Bias: Focused on immediate pleasure, ignoring future risk.\n - Reward Bias: Dopamine rush from sexual attention overrode caution.\n - Loss Aversion: Fear of reputation loss drove compliance.\n - Optimism Bias: Belief that payment would end the threat.",
-    "Neural Process": "Reward Pathway Activation (Dopamine Surge): Triggered during sexting phase.\n - Amygdala Fear Activation: Intense panic once blackmail began.\n - Prefrontal Cortex Inhibition: Rational analysis shut down under threat.\n - Stress Circuit Engagement (HPA Axis): High cortisol levels leading to anxiety and headache.\n - Relief Circuit (Dopamine Rebound): Partial calm after reporting and blocking scammer.",
+    "Cognitive Bias": [
+        "Hyperbolic Discounting",
+        "Loss Aversion",
+        "Optimism Bias"
+      ],
     "Emotional Mechanisms": [ "Fear of exposure, Shame, Threat"],
     "Source": "Reddit",
     "Common Signs": "Scammer contacts via anonymous Telegram dating bots.\n - Quick escalation from chat to sexual conversation.\n - Requests for explicit media using Telegram’s camera/self-destruct mode.\n - Threat of image exposure on fake hosting sites (e.g., imgbb, Google Drive).\n - Demands for non-traceable payments (gift cards, crypto).\n - Repeated extortion attempts even after first payment.\n - Scammer recontacts victims (“bro”) to test continued fear.\n - Victims experience intense panic, insomnia, and anxiety before realizing they can report safely."
@@ -581,8 +725,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Female",
-    "Cognitive Bias": "Commitment & Consistency Bias: Continued emotional and financial support due to prior investment.\n - Empathy Bias: Belief that his needs were genuine.\n - Sunk-Cost Fallacy: Difficulty breaking off after significant emotional and financial investment.\n - Fear of Social Judgment: Compliance due to fear of family finding out.\n - Authority Bias: Intimidation by false police-relative claim.",
-    "Neural Process": "Oxytocin Bonding Loop: Emotional intimacy reinforced trust and attachment.\n - Dopamine Reward System: Positive reinforcement through affection masked early red flags.\n - Amygdala Activation: Fear response triggered during blackmail threats.\n - Prefrontal Cortex Impairment: Logical decision-making suppressed under stress and guilt.\n - Cortisol Surge: Heightened stress leading to panic compliance.",
+    "Cognitive Bias": [
+        "Escalation of Commitment",
+        "Sunk Cost Fallacy",
+        "Loss Aversion",
+        "Authority Bias",
+        "Affect Heuristic"
+      ],
     "Emotional Mechanisms": [ "Emotional attachment, Trust, Fear of exposure, Betrayal, Pressure"],
     "Source": "Reddit",
     "Common Signs": "Relationship develops rapidly with emotional intensity.\n - Victim frequently pays for outings and gifts.\n - Scammer begins asking for expensive items (like iPhone).\n - Threats of exposing chats or personal photos to family.\n - Claim of powerful connections (police, politicians) to intimidate.\n - Sudden disappearance post-payment.\n - Emotional dependency and fear of public embarrassment keep victim quiet."
@@ -598,8 +747,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Authenticity Bias: Believed slow, natural chat pacing indicated genuineness.\n - Trust Transfer Bias: Moving to social media felt safer.\n - Optimism Bias: Underestimated threat of sharing personal info.\n - Loss Aversion & Panic Compliance: Paid large sums to avoid social humiliation.\n - Authority Bias: Believed scammers’ claim they could “delete” the video.",
-    "Neural Process": "Dopamine Reinforcement: Initial bonding and digital intimacy built strong trust.\n - Amygdala Hijack: Immediate fear and panic after exposure threat.\n - Prefrontal Cortex Suppression: Rational judgment disabled under stress, enabling instant compliance.\n - HPA-Axis Hyperactivation: Elevated cortisol from prolonged anxiety and social threat.\n - Long-Term Neural Stress Encoding: Persistent trauma, sleep disturbance, and distrust in digital systems.",
+    "Cognitive Bias": [
+        "Optimism Bias",
+        "Loss Aversion",
+        "Authority Bias",
+        "Affect Heuristic",
+        "Escalation of Commitment"
+      ],
     "Emotional Mechanisms":["Fear of exposure, Shame, Trust, Threat, Panic"],
     "Source": "Reddit",
     "Common Signs": "Match seems normal and slow-paced to appear real.\n - Moves conversation to social-media platforms to harvest data.\n - Initiates video call at night.\n - Uses pre-recorded or deep-fake video of a nude woman.\n - Threatens to release fake edited content to contacts.\n - Demands large payments citing “deletion of video.”\n - Uses victim’s phone number to access bank/credit info.\n - Posts or sends clips to a few friends to prove capability.\n - Authorities and platforms slow or ineffective in response."
@@ -615,9 +769,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Early 20s",
     "Gender": "Male",
-    "Cognitive Bias": "Validation Bias: Desire for emotional affirmation led to reduced skepticism.\n - Commitment Bias: Continued transfers after initial repayment built false trust.\n - Empathy Bias: Believed emotional excuses (mother’s death, mental illness).\n - Sunk-Cost Fallacy: Rationalized continued giving after investment.\n - Threat Bias: Overreacted to her fake legal threat due to fear of authority.",
-    "Neural Process": "Dopamine Reward Loop: Positive feedback from attention reinforced giving behavior.\n - Oxytocin Reinforcement: Intimacy and photos created emotional bonding.\n - Amygdala Trigger: Fear of legal consequences activated stress circuits.\n - Prefrontal Cortex Conflict: Struggle between rational awareness (“it’s a scam”) and emotional fear.\n - Cortisol Elevation: Chronic stress and anxiety from perceived legal threat.",
-    "Emotional Mechanisms":["Emotional dependency, Sexual dependency, Trust, Empathy, Fear of legal repercussions, Manipulation, Desire for romance"],
+    "Cognitive Bias": [
+        "Escalation of Commitment",
+        "Sunk Cost Fallacy",
+        "Affect Heuristic",
+        "Authority Bias"
+      ],
+    "Emotional Mechanisms": ["Emotional dependency", "Sexual dependency", "Trust", "Empathy", "Fear of legal repercussions", "Manipulation", "Desire for romance"],
     "Source": "Reddit",
     "Common Signs": "Scammer creates emotional dependency through daily texting.\n - Small financial asks escalate over weeks (“just for food,” “urgent need”).\n - Early repayment to build credibility.\n - Claims of personal tragedy (death, illness) to extend sympathy window.\n - Sends explicit photos to deepen trust and control.\n - On confrontation, threatens to reverse roles (“I’ll file complaint”).\n - Victim experiences fear of reputational or legal harm despite innocence."
   },
@@ -632,8 +790,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Early 20s",
     "Gender": "Male",
-    "Cognitive Bias": "Halo Effect: Belief in her professional persona (“event planner, doing well”).\n - Politeness Bias: Avoided confrontation out of courtesy.\n - Optimism Bias: Assumed the restaurant and date were legitimate.\n - Social Proof Bias: Setting in a public restaurant lowered suspicion.\n - Sunk-Cost Fallacy: Continued the date even when costs rose.",
-    "Neural Process": "Dopamine Reward Activation: Anticipation of social connection reduced vigilance.\n - Amygdala Underactivation: Early excitement suppressed threat signals.\n - Prefrontal Cortex Lag: Logical evaluation delayed until bill shock.\n - HPA Axis (Stress Response): Triggered panic and helplessness after being ditched.\n - Post-Event Cognitive Reappraisal: Victim began analyzing patterns and realized potential collusion.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Availability Heuristic",
+        "Sunk Cost Fallacy",
+        "Social Desirability Bias"
+      ],
     "Emotional Mechanisms": ["Humiliation, Betrayal, Financial distress, Embarrassment, Shock"],
     "Source": "Reddit",
     "Common Signs": "Date insists on specific restaurant.\n - Orders excessive or costly items casually.\n - Claims to have stable income or job to gain trust.\n - Leaves mid-meal citing restroom or urgent call.\n - Bill inflated beyond expectation (₹10k–₹12k range).\n - Other victims present simultaneously — evidence of collusion.\n - Restaurant staff indifferent or complicit.\n - Scammer vanishes from app or blocks after incident."
@@ -649,8 +812,12 @@
     "Scammed? Yes or No": "No",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "Curiosity Bias: Quick compliance due to surprise and novelty of encounter.\n - Reward Bias: Dopamine-driven impulse from sexual stimulus.\n - Shock & Threat Bias: Fear response overrode logical reasoning.\n - Loss Aversion: Negotiation attempt aimed at minimizing social loss.\n - Optimism Bias: Belief scammer would stop after brief negotiation.",
-    "Neural Process": "Dopamine Surge: Triggered by unexpected sexual initiation.\n - Amygdala Activation: Immediate fear once blackmail began.\n - Prefrontal Cortex Inhibition: Reduced critical reasoning during panic.\n - HPA Axis Stress Response: Elevated cortisol, leading to anxiety and hypervigilance.\n - Neural De-escalation: Gradual calm after scammer stopped responding.",
+    "Cognitive Bias": [
+        "Reciprocity Norm",
+        "Hyperbolic Discounting",
+        "Loss Aversion",
+        "Optimism Bias"
+      ],
     "Emotional Mechanisms": [ "Fear of exposure, Shame, Panic, Humiliation, Betrayal"],
     "Common Signs": "Immediate shift to WhatsApp after match.\n - Instant video call with sexual provocation.\n - Scammer encourages undressing quickly.\n - Hidden recording and fake exposure threats.\n - Demands for small, “quick-pay” ransom (₹5,000–₹10,000).\n - Threats reference YouTube, Facebook, Instagram, or family.\n - Sudden language switch when male handler takes over.\n - Threats usually fade if no payment is made."
   },
@@ -665,9 +832,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "30s-40s",
     "Gender": "Male",
-    "Cognitive Bias": "Trust & Intimacy Bias: Assumed consensual intimacy ensured safety.\n - Politeness & Reputation Bias: Preferred compliance to avoid scandal.\n - Authority Bias: Believed threats from law/police carried immediate danger.\n - Loss Aversion: Chose to pay large sums to avoid perceived catastrophic outcome (jail, family disgrace).\n - Fear-Induced Decision Bias: Panicked reaction replaced rational analysis.",
-    "Neural Process": "Amygdala Hyperactivation: Intense fear upon hearing about FIR and court complaint.\n - Prefrontal Cortex Shutdown: Panic impaired reasoning, leading to rash payments.\n - HPA Axis Stress Response: Elevated cortisol from sustained fear of exposure and legal consequences.\n - Dopaminergic Dysregulation: Emotional relief after payment produced temporary calm, reinforcing compliance.\n - Long-Term Stress Encoding: Anticipatory anxiety over case disclosure to relative.",
-    "Emotional Mechanisms": ["Fear of legal repercussions, Fear of reputational damage, Anxiety, Humiliation, Manipulation"],
+    "Cognitive Bias": [
+        "Loss Aversion",
+        "Authority Bias",
+        "Affect Heuristic"
+      ],
+    "Emotional Mechanisms": ["Fear of legal repercussions", "Fear of reputational damage", "Anxiety", "Humiliation", "Manipulation"],
     "Source": "Reddit",
     "Common Signs": "Relationship turns manipulative after a few weeks.\n - Scammer references legal threats (FIR, police, “sexual harassment case”).\n - Demands payment for withdrawal or settlement of case.\n - May involve law enforcement collusion.\n - Proof of consensual relationship exists (chats, gifts).\n - Threat escalation from private to formal complaint after payment.\n - Victim experiences panic, insomnia, and fear of public exposure."
   },
@@ -682,8 +852,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Trust Bias: Belief that a match implies shared confidentiality.\n - Curiosity Bias: Desire to explore identity overcame caution.\n - Fear Bias: Overestimation of immediate exposure threat.\n - Loss Aversion: Extreme fear of reputational damage outweighed logical recourse.\n - Confirmation Bias: Interpreted any contact (calls, messages) as proof of real threat.",
-    "Neural Process": "Amygdala Hyperactivation: Dominant fear center engagement due to threat of “outing.”\n - Cortisol Surge: Sustained anxiety from social and existential fear.\n - Prefrontal Cortex Paralysis: Logical decision-making suspended by panic.\n - Insula Activation: Anticipation of shame and disgust-related emotional pain.\n - Neural Reward–Fear Switch: Fear of identity exposure overrides pleasure of self-expression.",
+    "Cognitive Bias": [
+        "Loss Aversion",
+        "Fear Bias",
+        "Confirmation Bias",
+        "Authority Bias",
+        "Availability Heuristic"
+      ],
     "Emotional Mechanisms": [ "Fear of exposure, Anxiety, Vulnerability, Manipulation, Distress"],
     "Source": "Reddit",
     "Common Signs": "Instant move to WhatsApp after matching.\n - Scammer immediately uses the victim’s real name, creating fear.\n - Threats to “out” sexuality to family or colleagues.\n - Demands payment (₹20k–₹50k range) for silence.\n - Multiple persistent calls from unknown numbers.\n - Use of Truecaller-verified names to fake credibility.\n - Fake “lawyers” or helpers approach victims for money.\n - Victims experience extreme shame and avoidance of legal aid."
@@ -699,8 +874,11 @@
     "Scammed? Yes or No": "Yes",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "Trust Bias: Assumed mutual sexual interest implied safety.\n - Curiosity Bias: Desire for sexual exploration overcame caution.\n - Fear Bias: Overestimated social exposure risk relative to legal protection.\n - Loss Aversion: Willingness to pay large sum to avoid perceived catastrophic loss (outing, humiliation).\n - Normalcy Bias: Initially believed extortion would stop after one payment.",
-    "Neural Process": "Amygdala Overactivation: Fear response from immediate blackmail threat.\n - HPA Axis Overload: Chronic cortisol elevation due to repeated intimidation and shame.\n - Prefrontal Cortex Inhibition: Panic impaired reasoning, leading to compliance.\n - Insula Activation: Deep emotional pain from identity threat and disgust.\n - Reward–Threat Oscillation: False relief after first payment reinforced compliance.",
+    "Cognitive Bias": [
+        "Optimism Bias",
+        "Loss Aversion",
+        "Normalcy Bias"
+      ],
     "Emotional Mechanisms": ["Fear of exposure, Emotional trauma, Vulnerability, Humiliation, Distress"],
     "Source": "Reddit",
     "Common Signs": "Dating app contact followed by quick physical meetup.\n - Hidden recording of sexual act.\n - Immediate extortion demand post-encounter (₹50k–₹1L range).\n - Use of marginalized identity (Hijra) to invoke guilt or fear.\n - Repeated monetary demands despite initial payment.\n - Victim reluctance to approach law enforcement due to sexuality-based stigma.\n - Emotional breakdown, insomnia, and social withdrawal."
@@ -716,8 +894,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "Reward Anticipation Bias: Excitement of sexual engagement overcame caution.\n - Curiosity Bias: Repeated call acceptance despite hesitation.\n - Optimism Bias: Belief that paying $25 would “settle” the matter.\n - Loss Aversion: Panic-driven compliance to avoid social exposure.\n - Anchoring Effect: Fixated on initial high threat (£80k), perceiving smaller payments as relief.",
-    "Neural Process": "Dopaminergic Surge: Triggered by sexual visual cues.\n - Amygdala Activation: Rapid shift to fear once threat appeared.\n - Prefrontal Cortex Suppression: Impaired logical evaluation due to panic.\n - HPA Axis Response: Cortisol surge, hypervigilance, insomnia.\n - Reward–Threat Switch: Alternating relief after partial payment reinforced submission.",
+    "Cognitive Bias": [
+        "Hyperbolic Discounting",
+        "Loss Aversion",
+        "Anchoring",
+        "Optimism Bias"
+      ],
     "Emotional Mechanisms":[ "Fear, Panic, Shame, Embarrassment, Anxiety"],
     "Source": "Reddit",
     "Common Signs": "Scammer moves off-app quickly (Tinder → Instagram → phone).\n - Initiates explicit video call unprompted.\n - Records or fabricates video showing victim’s identifiable features.\n - Threatens exposure to family/friends using follower lists.\n - Demands vary in currency (£, $, crypto).\n - Accepts small initial payment to establish control.\n - Continues escalating or rescheduling threats (“next month payment”).\n - Silence or disappearance once victim blocks."
@@ -733,8 +915,12 @@
     "Scammed? Yes or No": "No",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "Trust & Reciprocity Bias: Believed sexual exposure implied mutual vulnerability.\n - Curiosity Bias: Urge to reciprocate visual cues.\n - Shock Bias: Immediate emotional overload blocked rational appraisal.\n - Optimism Bias: Assumed temporary compliance (blocking, deactivating) would neutralize threat.\n - Catastrophic Thinking Bias: Overestimation of reputational fallout.",
-    "Neural Process": "Amygdala Hijack: Sudden threat (leakage warning) overrides executive reasoning.\n - Cortisol Spike: Panic response from perceived social exposure.\n - Prefrontal Cortex Inhibition: Reasoning shuts down during initial fear wave.\n - Dopamine–Cortisol Flip: Sexual arousal abruptly converts to anxiety.\n - Memory Encoding in Amygdala: Creates lasting trauma loop around “digital intimacy = danger.”",
+    "Cognitive Bias": [
+        "Reciprocity Norm",
+        "Loss Aversion",
+        "Optimism Bias",
+        "Catastrophic Thinking Bias"
+      ],
     "Emotional Mechanisms": ["Fear, Anxiety, Shame, Embarrassment, Distress"],
     "Source": "Reddit",
     "Common Signs": "Sudden WhatsApp switch after initial chat.\n - Immediate nude video call initiation by scammer.\n - Victim’s visible face recorded.\n - Threats of mass leak to followers/family.\n - No monetary demand initially or small follow-up extortion attempt.\n - Emotional blackmail via shame rather than money.\n - Scammer disappears or reappears with new numbers."
@@ -750,8 +936,12 @@
     "Scammed? Yes or No": "Potential",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "Authority Bias: Believed fake officer due to formal tone and threat of law.\n - Fear Bias: Panic over legal consequences overrode rational thinking.\n - Loss Aversion: Focused on avoiding arrest/exposure rather than questioning validity.\n - Urgency Bias: Immediate action triggered by time pressure (“pay now or get arrested”).\n - Truth Bias: Initial belief that the girl’s “live” video was genuine.",
-    "Neural Process": "Amygdala Hyperactivation: Triggered by “Cybercrime Officer” threat.\n - Cortisol Flood: Heightened physiological stress response.\n - Prefrontal Cortex Suppression: Reduced critical evaluation of logic/inconsistencies.\n - Dopamine Suppression: Emotional drop after perceived loss of control.\n - Fear–Compliance Circuit: Brain switches from reasoning to appeasement.",
+    "Cognitive Bias": [
+        "Authority Bias",
+        "Loss Aversion",
+        "Urgency Bias",
+        "Framing Effect"
+      ],
     "Emotional Mechanisms": ["Fear, Panic, Confusion, Distress, Shame, Embarrassment"],
     "Source": "Reddit",
     "Common Signs": "Immediate shift from chatting to WhatsApp.\n - Pre-recorded nude video used for bait.\n - Threat to post on social media or send to family.\n - Follow-up call from “Cybercrime Officer.”\n - Fake legal terms and monetary “fine.”\n - Low secondary demand (₹500) after main threat.\n - Scammer claims to be deleting video after payment.\n - Emotional whiplash (arousal → fear → doubt → relief)."
@@ -767,8 +957,12 @@
     "Scammed? Yes or No": "No",
     "Age": "Minor",
     "Gender": "Male",
-    "Cognitive Bias": "Novelty Bias: Curiosity toward foreign attention increased trust.\n - Reciprocity Bias: Felt compelled to match explicit sharing.\n - Optimism Bias: Believed exposure risk was low until threat emerged.\n - Loss Aversion: Extreme fear of exposure outweighed rational doubt.\n - Availability Bias: Overestimated probability of viral leak due to vivid mental imagery.",
-    "Neural Process": "Dopamine Activation: Initial sexual reward anticipation.\n - Amygdala Hyperactivation: Panic upon receiving threat.\n - Cortisol Surge: Stress response causing insomnia and fixation.\n - Prefrontal Cortex Inhibition: Impaired judgment under shame-induced fear.\n - Relief Response: Temporary neural calm after blocking scammer (safety rebound).",
+    "Cognitive Bias": [
+        "Reciprocity Norm",
+        "Optimism Bias",
+        "Loss Aversion",
+        "Availability Heuristic"
+      ],
     "Emotional Mechanisms":  ["Fear, Panic, Anxiety, Shame, Embarrassment"],
     "Source": "Reddit",
     "Common Signs": "Foreign profile with rapid sexual escalation.\n - Cross-platform switch (Instagram → Snapchat).\n - Explicit content exchange initiated by scammer.\n - Screenshot/save of victim’s content.\n - Crypto payment demand (Bitcoin, USDT, etc.).\n - Threat to “send to friends” despite no actual friend-list access.\n - Silence after blocking (24–48 hrs).\n - Persistent anxiety even after no contact."
@@ -784,8 +978,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Minor",
     "Gender": "Male",
-    "Cognitive Bias": "Adolescent Risk Bias: Underdeveloped impulse control and curiosity override caution.\n - Novelty & Reward Bias: Perceived opportunity for sexual gratification heightened dopamine drive.\n - Trust Bias: Believed the second UPI ID added legitimacy.\n - Fear Bias: Panic after threat inhibited rational thinking.\n - Loss Aversion: Paid more to avoid imagined catastrophic exposure.K52",
-    "Neural Process": "Immature Prefrontal Regulation: Adolescents have underdeveloped inhibitory control.\n - Dopamine Spike → Cortisol Flood: Transition from arousal to panic suppressed cognitive evaluation.\n - Amygdala Dominance: Fear-based decision-making due to threat of exposure.\n - Short-Term Relief Reinforcement: Payment produced temporary calm, encoding compliance.\n - Chronic Stress Encoding: Fear of being “found out” reinforced long-term hypervigilance.",
+    "Cognitive Bias": [
+        "Hyperbolic Discounting",
+        "Loss Aversion",
+        "Optimism Bias",
+        "Confirmation Bias"
+      ],
     "Emotional Mechanisms": [ "Fear, Panic, Anxiety, Distress, Shame, Embarrassment"],
     "Source": "Reddit",
     "Common Signs": "Escort/camgirl site redirects to WhatsApp.\n - Low entry fee (₹300–₹1000) to hook victim.\n - UPI account with mismatched gender.\n - Fake “boyfriend” or “manager” explanation.\n - Sudden demand escalation.\n - Use of UPI name for fake “personal data threat.”\n - Switching numbers after blocking.\n - No actual hacking or leak, only psychological intimidation."
@@ -801,8 +999,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Trust Bias: Perceived authenticity from long chat duration.\n - Emotional Investment Bias: Felt bonded before the scam turned.\n - Loss Aversion: Continued paying to avoid “greater loss” (exposure).\n - Optimism Bias: Believed each payment would “end the ordeal.”\n - Fear Conditioning: Threat repetition trained compliance behavior.\n - Sunk Cost Fallacy: Rationalized additional payments as “damage control.”",
-    "Neural Process": "Amygdala–HPA Axis Dominance: Chronic stress from persistent blackmail threats.\n - Cortisol Overload: Sustained panic degraded reasoning and impulse control.\n - Prefrontal Cortex Suppression: Repeated fear cycles impaired logical judgment.\n - Insula Activation: Anticipatory disgust and shame intensified anxiety loops.\n - Dopaminergic Desensitization: Emotional exhaustion reduced ability to feel relief even after paying.",
+    "Cognitive Bias": [
+        "Escalation of Commitment",
+        "Sunk Cost Fallacy",
+        "Loss Aversion",
+        "Optimism Bias"
+      ],
     "Emotional Mechanisms": ["Fear of social exposure, Reputation fear, Manipulation, Learned helplessness, Desperation"],
     "Source": "Reddit",
     "Common Signs": "Gradual trust-building before explicit content.\n - Switch to WhatsApp for “private talk.”\n - Explicit video call initiated by scammer.\n - Victim’s identifiable face captured.\n - Threat to leak via social media.\n - Demands increase in stages (₹20k → ₹50k → ₹2L+).\n - Continued coercion despite payment.\n - Victim experiences guilt, secrecy, insomnia."
@@ -818,8 +1020,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Early 20s",
     "Gender": "Male",
-    "Cognitive Bias": "Emotional Substitution Bias: Replaced lost affection from ex with online intimacy.\n - Trust Bias: Mistook repeated contact for authenticity.\n - Gradual Commitment Effect: Escalated compliance over multiple calls.\n - Loss Aversion: Paid repeatedly to avoid perceived catastrophic exposure.\n - Anchoring Bias: Believed ₹60k was final settlement because scammer “promised.”\n - Availability Heuristic: Believed exposure was inevitable after seeing screenshots.",
-    "Neural Process": "Reward System Activation (VTA–NAcc): Early emotional and sexual validation boosted dopamine.\n - Amygdala–HPA Axis Overdrive: Panic when blackmail began caused chronic stress.\n - Prefrontal Cortex Inhibition: Fear impaired reasoning; short-term appeasement dominated long-term logic.\n - Cortisol–Dopamine Imbalance: Alternating hope and panic created unstable emotional states.\n - Fear Conditioning: Each demand–payment pair reinforced obedience to avoid pain.",
+    "Cognitive Bias": [
+        "Affect Heuristic",
+        "Escalation of Commitment",
+        "Loss Aversion",
+        "Anchoring",
+        "Availability Heuristic"
+      ],
     "Emotional Mechanisms": [ "Vulnerability, Manipulation, Fear of social exposure, Reputation fear, Anxiety, Shame, Fear of parental disapproval"],
     "Common Signs": "Quick intimacy escalation after matching.\n - Multiple “trust-building” calls before extortion.\n - Scammer uses accomplice (male voice) for blackmail.\n - Composite video created using edited clips.\n - Threats backed by actual message requests to contacts.\n - Payment in stages (“just one last time”).\n - False assurance (“I promise I’ll delete it”).\n - Victim avoids police due to shame."
   },
@@ -834,8 +1041,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Early 20s",
     "Gender": "Male",
-    "Cognitive Bias": "Loss Aversion: Continued payments to avoid exposure.\n - Confirmation Bias: Belief that each payment “might be the last.”\n - Availability Heuristic: Mental replay of exposure scenario keeps fear alive.\n - Hypervigilance Bias: Overestimation of threat persistence.\n - Sunk Cost Fallacy: Justified further payments to protect prior losses.\n - Survivorship Bias: Feels “lucky” it hasn’t leaked yet, reinforcing fear conditioning.",
-    "Neural Process": "Amygdala Overactivation: Constant threat anticipation keeps the brain in a fight-or-flight loop.\n - HPA Axis Fatigue: Continuous cortisol release from fear creates exhaustion and impaired immunity.\n - Reduced Prefrontal Modulation: Logical reasoning suppressed by recurring panic.\n - Hippocampal Reinforcement: Memory of blackmail call strengthens associative fear learning.\n - Insular Cortex Activity: Persistent shame and disgust sensations.",
+    "Cognitive Bias": [
+        "Loss Aversion",
+        "Confirmation Bias",
+        "Availability Heuristic",
+        "Sunk Cost Fallacy"
+      ],
     "Emotional Mechanisms": [ "Fear of social exposure, Ongoing fear, Anxiety, Fear of parental disapproval, Shame, Learned helplessness"],
     "Source": "Reddit",
     "Common Signs": "Multiple new numbers calling daily.\n - Victim stops paying but remains hypervigilant.\n - Fear of going to police due to parental discovery.\n - Anonymous complaint filed but no follow-up.\n - Persistent insomnia, guilt, and shame.\n - Belief that exposure can happen any moment.\n - Avoidance of friends/family.\n - Severe anxiety despite zero recent contact."
@@ -851,8 +1062,12 @@
     "Scammed? Yes or No": "Potential",
     "Age": "Early 20s",
     "Gender": "Male",
-    "Cognitive Bias": "Moral Panic Bias: Immediate belief of criminal accusation validity.\n - Authority Bias: Fear of law invoked through moral framing (“pedo”).\n - Negativity Bias: One threatening message outweighed logical evidence.\n - Catastrophizing: Belief that worst-case scenario (arrest/exposure) was imminent.\n - Guilt-by-Association Bias: Belief that sexual intent equals wrongdoing.",
-    "Neural Process": "Amygdala Hijack: Sudden guilt and panic dominate cognition.\n - Cortisol Spike: Fight-or-flight sustained beyond actual threat window.\n - Anterior Cingulate Hyperactivity: Moral distress conflict — “Did I do something wrong?”\n - Prefrontal Suppression: Reasoning and context judgment collapse.\n - Insula Activation: Shame and disgust sensations reinforcing fear.",
+    "Cognitive Bias": [
+        "Authority Bias",
+        "Loss Aversion",
+        "Framing Effect",
+        "Catastrophic Thinking Bias"
+      ],
     "Emotional Mechanisms": [ "Moral panic, Reputation fear, False guilt, Fear of criminal implications, Psychological manipulation"],
     "Source": "Reddit",
     "Common Signs": "Explicit bait message (“fun” on Telegram).\n - Exchange of photos, then fake accusation.\n - Threat to post on social media.\n - Small payment demand (₹10–₹30K).\n - Labels victim with strong moral trigger (“pedo,” “pervert”).\n - Late-night threats and urgent deletion offers.\n - Victim shows panic and self-blame despite innocence."
@@ -868,8 +1083,12 @@
     "Scammed? Yes or No": "Potential",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Hot-Cold Empathy Gap: underestimated risk while aroused.\n - Trust Heuristic: assumed live call implied authenticity.\n - Temporal Discounting: valued immediate pleasure over future risk.\n - Panic Bias: fear of exposure overrode logic after threat.\n - Availability Heuristic: vivid imagination of being exposed created extreme anxiety.",
-    "Neural Process": "Mesolimbic Dopamine Surge: sexual stimulus suppressed risk perception.\n - Amygdala Shock Activation: abrupt threat caused panic, guilt, and shame.\n - Cortisol Flood: physiological stress impaired reasoning.\n - Prefrontal Shutdown: rational decision-making suspended.\n - Insula–ACC Co-activation: visceral shame and self-loathing.",
+    "Cognitive Bias": [
+        "Affect Heuristic",
+        "Hyperbolic Discounting",
+        "Loss Aversion",
+        "Availability Heuristic"
+      ],
     "Emotional Mechanisms": ["Manipulation, Fear of social exposure, Reputation fear"],
     "Source": "Reddit",
     "Common Signs": "Newly made social profile initiates contact.\n - Shifts from Facebook to WhatsApp rapidly.\n - Pushes for instant video call and sexual activity.\n - Records and stitches multiple clips.\n - Threatens exposure to contacts.\n - Demands ₹10K–₹50K via UPI.\n - Uses fake foreign names or generic female usernames.\n - Sends messages late night/early morning."
@@ -885,8 +1104,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Female",
-    "Cognitive Bias": "Affect Heuristic: Trusted him due to emotional appeal and shared “grief.”\n - Commitment Consistency Bias: Continued helping to remain consistent with her self-image of loyalty.\n - Empathy Bias: Felt morally obligated to rescue him.\n - Sunk Cost Fallacy: Kept lending to justify previous financial commitment.\n - Halo Effect: Wealth + emotional vulnerability masked deception.\n - Normalcy Bias: Believed such things don’t happen in “real relationships.”",
-    "Neural Process": "Oxytocin Reinforcement: Intimacy and trust bonding lowered suspicion threshold.\n - Prefrontal Inhibition: Chronic stress reduced logical decision control.\n - Ventral Striatum Activation: “Helping him” produced emotional reward akin to love reinforcement.\n - Amygdala Suppression: Trust suppressed natural fear response.\n - HPA Axis Dysregulation: Financial stress now causing anxiety and depressive loops.",
+    "Cognitive Bias": [
+        "Affect Heuristic",
+        "Escalation of Commitment",
+        "Sunk Cost Fallacy",
+        "Halo Effect"
+      ],
     "Emotional Mechanisms": ["Emotional manipulation, Trust building, Dependence, Empathy, Coercion, Shame, Vulnerability, Deception, Intimidation, Distress, Abandonment"],
     "Source": "Reddit",
     "Common Signs": "Fake “rich businessman” persona with sob story.\n - Immediate emotional intimacy and dependence.\n - Pressure for physical meeting (Goa trip).\n - Gradual normalization of financial favors.\n - Requests to use victim’s bank account.\n - Demands for loans and credit in her name.\n - Ghosting after exhaustion of victim’s credit sources.\n - Use of excuses (illness, family issues, site problems)."
@@ -902,8 +1125,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Early 20s",
     "Gender": "Male",
-    "Cognitive Bias": "Authority Bias: Believed the “owner” had legal power to punish.\n - Loss Aversion: Paid instantly to prevent potential humiliation.\n - Moral Panic Bias: Equated consensual act with social crime.\n - Trust Bias: Assumed deletion meant safety.\n - Optimism Bias: Believed “refund” promise as moral restitution.",
-    "Neural Process": "Amygdala Hyperactivation: Sudden intrusion converted pleasure context into threat context.\n - HPA-Axis Surge: Cortisol flood produced acute panic and compliance reflex.\n - Prefrontal Cortex Inhibition: Reasoning collapsed under moral fear (“I’ll be exposed”).\n - Insula–ACC Activation: Shame and disgust sensations encoded as self-blame.\n - Memory Consolidation: The traumatic interruption re-encoded sexual experience as fear stimulus, creating persistent intrusive thoughts.",
+    "Cognitive Bias": [
+        "Authority Bias",
+        "Loss Aversion",
+        "Moral Panic Bias",
+        "Optimism Bias"
+      ],
     "Emotional Mechanisms": ["Fear of exposure, Shame, Extortion, Intimidation, Guilt, Anxiety, Manipulation, False hope, Trauma, Self-blame"],
     "Common Signs": "Sudden intrusion during private act.\n - Immediate threat of “police involvement.”\n - Payment demanded as “fine” or “compromise.”\n - Video deletion shown visually but not verified.\n - Later promise of refund to retain contact.\n - Victim experiences lingering fear and self-hatred despite innocence."
   },
@@ -918,8 +1145,11 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Minor",
     "Gender": "Male",
-    "Cognitive Bias": "Reward Anticipation Bias: Focused on expected sexual gratification over risk assessment.\n - Temporal Discounting: Immediate pleasure outweighed delayed regret.\n - Secrecy Bias: Concealed act from family → reduced accountability loop.\n - Optimism Bias: Believed scam unlikely to happen to him.\n - Justification Bias: Rationalized payment as “entry fee” rather than risk.",
-    "Neural Process": "Hyperactive Dopaminergic Reward Circuitry (NAcc–VTA loop): anticipation of novel sexual reward triggered impulsive payment.\n - Underdeveloped Prefrontal Cortex: adolescent executive control and risk-evaluation not fully mature → weak inhibitory control.\n - Amygdala Underestimation Response: low threat sensitivity due to focus on arousal stimulus.\n - Cortisol Spike Post-Scam: realization induced acute stress, activating the hypothalamic–pituitary–adrenal (HPA) axis → guilt, anxiety.\n - Hippocampal Encoding: event now stored as a high-intensity shame memory, influencing future trust circuits.",
+    "Cognitive Bias": [
+        "Hyperbolic Discounting",
+        "Optimism Bias",
+        "Secrecy Bias"
+      ],
     "Emotional Mechanisms": [ "Shame, Fear of discovery, Secrecy, Desire, Hope"],
     "Source": "Reddit",
     "Common Signs": "Sudden monetary demand before meeting.\n - No verifiable profile or agency contact.\n - Push for digital transfer (UPI/PhonePe).\n - Fear of exposure prevents immediate help-seeking.\n - Instant emotional oscillation: excitement → fear → secrecy."
@@ -935,8 +1165,12 @@
     "Scammed? Yes or No": "Potential",
     "Age": "Early 20s",
     "Gender": "Male",
-    "Cognitive Bias": "Arousal-Induced Risk Neglect: Sexual excitement suppresses rational threat evaluation.\n \n Loss Aversion Bias: Overestimates the potential social loss (family shame) relative to small payment cost.\n \n Catastrophic Thinking Bias: Imagines worst-case exposure scenario → immediate compliance impulse.\n \n Secrecy Bias: Fear of social judgment prevents seeking help, sustaining scammer’s leverage.\n \n Optimism Bias: Initially assumes the “girl” is genuine and no harm will occur.\n \n Authority Illusion: Interprets the male handler’s calls as legitimate enforcement threat.",
-    "Neural Process": "Dopaminergic Reward Circuit (VTA–NAcc): Heightened dopamine release during anticipation of sexual reward; narrows attention and increases impulsivity.\n \n Prefrontal Cortex Suppression: Executive reasoning and impulse control temporarily inhibited by arousal; poor risk estimation.\n \n Amygdala Hyperactivation: Immediate fear response when blackmail begins; triggers panic decision-making.\n \n HPA Axis (Cortisol Flood): Stress hormones surge, producing physiological anxiety and urgency to “fix” the problem.\n \n Insula & Anterior Cingulate Cortex: Encode intense shame and guilt, internalizing moral self-blame.\n \n Hippocampal Reinforcement: Event consolidated as a high-salience trauma memory linking intimacy with threat.",
+    "Cognitive Bias": [
+        "Hyperbolic Discounting",
+        "Loss Aversion",
+        "Catastrophic Thinking Bias",
+        "Authority Bias"
+      ],
     "Emotional Mechanisms":["Fear of exposure, Shame, Extortion, Threat, Intimidation, Terror, Lure, Desire"],
     "Source": "Reddit",
     "Common Signs": "Instant escalation from text chat to explicit video call.\n \n Abrupt call termination once exposure captured.\n \n Immediate threat using screenshots or fake contact lists.\n \n Shift to male “handler” voice demanding money.\n \n Victim deletes social accounts and isolates due to fear.\n \n Persistent psychological oscillation: pleasure → terror → guilt → silence."
@@ -952,8 +1186,14 @@
     "Scammed? Yes or No": "Yes",
     "Age": "50+",
     "Gender": "Male",
-    "Cognitive Bias": "Scarcity & Exclusivity Bias: “Elite, high-society” framing increased perceived rarity and desirability.\n \n Sunk Cost Fallacy: Continued payments rationalized by the amount already invested.\n \n Reciprocity Bias: Felt obligation to comply after receiving personal attention and promises of companionship.\n \n Hope & Optimism Bias: Belief that each new payment moved him closer to a real relationship.\n \n Age-Related Risk Underestimation: Diminished digital skepticism due to generational trust patterns.\n \n Loss Aversion Bias: Paid further to avoid emotional loss or embarrassment after initial investment.\n \n Authority Bias: Trusted individuals claiming to represent a legitimate agency.",
-    "Neural Process": "Dopaminergic Anticipation Loop (VTA–NAcc): Emotional reward anticipation of companionship triggered dopamine release, reinforcing each transaction.\n \n Ventromedial Prefrontal Cortex (vmPFC): Biased valuation toward social reward over financial caution.\n \n Amygdala & Insula Dampening: Emotional warmth from romantic messages suppressed fear and suspicion.\n \n Orbitofrontal Cortex (OFC) Recalibration: Justified payments as rational investments in “relationship success.”\n \n Cortisol Spike Post-Threat: Threats triggered acute stress response (HPA-axis activation) leading to fear and realization.\n \n Hippocampal Encoding: Emotional betrayal stored as long-term distrust schema, possibly impacting future relational valuation.",
+    "Cognitive Bias": [
+        "Scarcity Effect",
+        "Sunk Cost Fallacy",
+        "Reciprocity Norm",
+        "Optimism Bias",
+        "Loss Aversion",
+        "Authority Bias"
+      ],
     "Emotional Mechanisms": ["Deception, Lure, Desire for companionship, Hope, False promise, Manipulation, Trust building, Threat, Intimidation"],
     "Source": "NDTV",
     "Common Signs": "Claims of “elite dating” or “exclusive membership” requiring advance registration.\n \n Multiple female identities (“Ritika,” “Priti”) to sustain illusion and continuity.\n \n Requests for phased payments with changing bank accounts.\n \n Shift from affection-based grooming to coercion when compliance drops.\n \n Threats and emotional manipulation to prevent withdrawal.\n \n Victim realizes scam only after total monetary exhaustion or explicit threat."
@@ -969,8 +1209,14 @@
     "Scammed? Yes or No": "Yes",
     "Age": "50+",
     "Gender": "Male",
-    "Cognitive Bias": "rust & Affection Bias: Emotional bonding substituted due diligence; equated intimacy with authenticity.\n \n Illusion of Control: Early small profit reinforced belief in his own judgment (“I picked right”).\n \n Confirmation Bias: Selectively attended to gains, ignored potential red flags.\n \n Sunk Cost Fallacy: Continued investing to justify earlier decisions and emotional commitment.\n \n Authority & Social Proof Bias: “Corporate” trading websites and confident tone implied legitimacy.\n \n Reciprocity Bias: Felt indebted after receiving “free tips” and initial profit.\n \n Availability Heuristic: Immediate withdrawal of ₹8,000 made the entire scheme seem real.",
-    "Neural Process": "Dopaminergic Reward Circuit (VTA–NAcc): Small initial profit produced powerful reinforcement, strengthening trust–reward linkage.\n \n Oxytocin–Serotonin Coupling: Emotional bonding with “Anita” suppressed skepticism and amplified attachment.\n \n Ventromedial Prefrontal Cortex (vmPFC): Biased valuation — prioritized emotional trust over statistical caution.\n \n Orbitofrontal Cortex (OFC): Mispriced risk–reward ratio due to social validation input.\n \n Amygdala Modulation: Emotional closeness dampened threat response — low vigilance during transfers.\n \n Cortisol & Norepinephrine Spike (Post-Realization): Acute stress when contact ended → physiological shock, regret, depressive symptoms.\n \n Hippocampal Encoding: Trust betrayal becomes a salient emotional memory affecting future interpersonal valuation.",
+    "Cognitive Bias": [
+        "Affect Heuristic",
+        "Confirmation Bias",
+        "Sunk Cost Fallacy",
+        "Authority Bias",
+        "Availability Heuristic",
+        "Reciprocity Norm"
+      ],
     "Emotional Mechanisms": ["Emotional bonding, Trust building, Confidence building, Greed, Encouragement"],
     "Source": "NDTV",
     "Common Signs": "Dating app match transitions into “investment advisor” quickly.\n \n “Trial profit” and instant partial withdrawal to build credibility.\n \n High-urgency persuasion: “Limited time offer,” “exclusive client list.”\n \n Multiple accounts for phased deposits.\n \n Request for “tax” or “release fee” before withdrawal.\n \n Silence and platform shutdown upon refusal to pay further."
@@ -986,8 +1232,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Attractiveness Bias: Physical appearance of the woman overrode situational risk assessment.\n • Optimism Bias: Believed “bad things won’t happen to me”; ignored initial red flags.\n • Social Compliance Bias: Paid the inflated bill due to fear of confrontation and implicit social pressure.\n • Anchoring Effect: Focused on the initial impression of a “normal date,” anchoring expectations despite abnormal cues (empty bar, rapid drink orders).",
-    "Neural Process": "Ventral Striatum Activation: Anticipation of romantic/sexual reward increased dopamine, suppressing rational threat appraisal.\n • Prefrontal Cortex Downregulation: Executive control temporarily impaired by social arousal and novelty.\n • Amygdala Fear Reversal: Under social threat (aggressive waiters), amygdala reactivated to prioritize escape over confrontation.\n • HPA Axis (Cortisol Spike): Rapid stress response triggered during coercion → compliance to avoid escalation.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Social Desirability Bias",
+        "Anchoring",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms": ["Intimidation, Fear, Social pressure"],
     "Source": "NDTV",
     "Common Signs": "• Immediate invitation to meet without prior rapport.\n • Suggestion to meet at a “known bar nearby.”\n • Empty or low-traffic venue with intimidating staff.\n • Woman orders premium alcohol without consulting victim.\n • Exorbitant final bill and group pressure to pay quickly.\n • Victim realizes scam only after leaving the venue."
@@ -1003,8 +1254,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "30s-40s",
     "Gender": "Female",
-    "Cognitive Bias": "Affective Trust Bias: Romantic attention biased her judgment toward financial advice.\n • Illusion of Validity: Believed platform was legitimate due to two-factor authentication and visible “profits.”\n • Reward Anticipation Bias: Rising fake returns overrode rational skepticism.\n • Commitment–Consistency Bias: Emotional investment demanded behavioral consistency, reinforcing continued payments.\n • Authority Heuristic: Trusted “experienced trader” persona as financial expert.\n • Temporal Discounting: Chose immediate affection and wealth projection over future prudence.\n • Confirmation Bias: Ignored subtle inconsistencies due to emotional bonding narrative.",
-    "Neural Process": "Ventral Tegmental Area (VTA)–Nucleus Accumbens (NAcc) Circuit: Anticipation of love and profit triggered high dopamine activity, reinforcing compliance.\n • Oxytocin Surge: Sustained romantic interaction elevated trust neurochemistry, lowering vigilance.\n • Ventromedial Prefrontal Cortex (vmPFC): Overweighted social and emotional utility over risk probability.\n • Amygdala Downregulation: Emotional safety induced by “Ancel’s” affection suppressed threat response.\n • Prefrontal Inhibition Collapse: Cognitive control weakened under simultaneous romantic arousal and financial hope.\n • Cortisol & Noradrenaline Hyperactivation (Post-Discovery): Trauma response created sleep loss, appetite suppression, and intrusive regret memories (PTSD symptoms).\n • Hippocampal Encoding: Betrayal and loss encoded as affective trauma, shaping future relational distrust.",
+    "Cognitive Bias": [
+        "Affect Heuristic",
+        "Confirmation Bias",
+        "Escalation of Commitment",
+        "Authority Bias",
+        "Hyperbolic Discounting"
+      ],
     "Emotional Mechanisms":["Emotional bonding, Trust building, Affection, Confidence building, Psychological conditioning, Emotional manipulation"],
     "Common Signs": "Long grooming phase with deep emotional bonding and daily affection.\n • Claims of financial expertise (“I retired early through crypto”).\n • Early demonstration of fake profit withdrawal to gain trust.\n • Encourages liquidation of retirement funds or loans.\n • AI-generated photos/videos to maintain illusion.\n • Sudden tax or withdrawal fee demanded before payout.\n • Emotional manipulation: affection → urgency → betrayal."
   },
@@ -1019,8 +1275,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Early 20s",
     "Gender": "Female",
-    "Cognitive Bias": "Empathy Bias: Felt compelled to help “Rahul” when he claimed distress (airport arrest).\n • Trust-Formation Bias: “Marriage Bureau” framing triggered credibility via social intention (finding friends or life partner).\n • Optimism Bias: Believed her video would never be misused; underestimated manipulation risk.\n • Compliance Under Threat Bias: Decision-making hijacked by fear of social exposure.\n • Foot-in-the-Door Effect: Started with harmless chats → small personal disclosures → major compliance (stripping).\n • Cognitive Overload: Emotional shock during blackmail impaired logical assessment of next actions.",
-    "Neural Process": "Amygdala Hyperactivation: Fear of exposure triggered high emotional arousal, narrowing decision space.\n • Hypothalamic–Pituitary–Adrenal (HPA) Axis Activation: Elevated cortisol sustained anxiety and submissive compliance.\n • Prefrontal Cortex Suppression: Under acute stress, executive control (risk evaluation, reasoning) diminished, leading to irrational repeated payments.\n • Insular Cortex Response: Anticipated social shame coded as physical pain, reinforcing avoidance (payment = escape).\n • Anterior Cingulate Cortex (ACC): Conflict between self-preservation and moral disgust produced cognitive dissonance.\n • Hippocampal Encoding: Strong memory consolidation from trauma → recurring intrusive recollections and shame loops.",
+    "Cognitive Bias": [
+        "Empathy Bias",
+        "Optimism Bias",
+        "Loss Aversion",
+        "Escalation of Commitment"
+      ],
     "Emotional Mechanisms": ["Trust building, Persuasion, Fear, Intimidation, Blackmail"],
     "Source": "NDTV",
     "Common Signs": "Fake “UK marriage” or “foreign friendship” profiles on Instagram.\n • Quick shift from chatting to video calls.\n • Immediate recording or disconnection after exposure.\n • False emergencies (“stuck at airport,” “need help”) to trigger empathy and urgency.\n • Escalating monetary demands in small, repeated transfers.\n • Silence or disappearance after extortion ceiling reached."
@@ -1036,8 +1296,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "40s-50s",
     "Gender": "Female",
-    "Cognitive Bias": "Empathy Bias: Victim’s compassion toward the supposed NRI’s “plight” suppressed rational judgment.\n \n -Authority Heuristic: “Customs officials” reference created false legitimacy and procedural credibility.\n \n -Commitment–Consistency Bias: Having emotionally invested in the relationship, she felt obligated to support him.\n \n -Temporal Discounting: Immediate emotional reward (helping someone she cared for) outweighed long-term risk.\n \n -Optimism Bias: Believed that since they spoke frequently, fraud likelihood was minimal.\n \n -Availability Heuristic: Familiarity with news of real airport detentions made the scenario seem believable.",
-    "Neural Process": "Ventral Tegmental Area (VTA) & Nucleus Accumbens (NAcc): Emotional bonding triggered dopaminergic reward loops from perceived intimacy and validation.\n \n -Amygdala Modulation: Emotional attachment dulled threat perception, lowering suspicion toward inconsistencies.\n \n -Prefrontal Cortex (PFC) Inhibition: Under emotional arousal and urgency framing, executive control and cost–benefit reasoning weakened.\n \n -Insular Cortex Activation: Compassionate distress activated empathy networks, motivating monetary help.\n \n -Cortisol & Noradrenaline Spike: “Crisis” (detention narrative) activated acute stress pathways, prompting action-oriented impulsivity.\n \n -Hippocampal Encoding: Emotional salience of “love under danger” consolidated memory linkage between romance and rescue behavior.",
+    "Cognitive Bias": [
+        "Affect Heuristic",
+        "Authority Bias",
+        "Escalation of Commitment",
+        "Hyperbolic Discounting",
+        "Optimism Bias"
+      ],
     "Emotional Mechanisms": ["Trust building, Affection, Urgency, Deception"],
     "Source": "Times of India",
     "Common Signs": "Profiles Claiming NRI / Merchant Navy Background: Often invoke prestige and global status to gain credibility.\n \n -Sudden Crisis Scenarios (“Detained at Airport”, “Medical Emergency”, “Bank Issue”): Fabricated urgency manipulates empathy-driven decision circuits.\n \n -Requests for Money Transfer via Bank Account / Digital Wallet: Always under emotional pressure or time-sensitive framing.\n \n -Emotional Overinvestment in a Short Timeframe: Intense attention, daily communication, and premature intimacy.\n \n -Disappearance After Payment: Ghosting behavior once trust utility exhausted.\n \n -Dual-Profile Grooming: Multiple fake identities running parallel to multiply emotional anchors."
@@ -1053,8 +1318,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Arousal/Novelty Bias: Unexpected undressing video triggered emotional shock and reduced risk scrutiny.\n \n -Social Shame Bias: Fear of reputational loss increased compliance.\n \n -Optimism Bias: Belief that things would stay private; underestimated scammer capability.\n \n -Temporal Discounting: Immediate threat of exposure outweighed longer-term financial loss.\n \n -Reciprocity/Obligation Bias: Once the video call happened, a sense of obligation/entrapment set in.",
-    "Neural Process": "Dopaminergic Reward Circuit (VTA-NAcc) activation: initial intrigue/arousal reduced inhibition.\n \n -Amygdala activation: threat of exposure triggered rapid fear response.\n \n -Prefrontal Cortex suppression: acute stress and shame impaired critical thinking.\n \n -HPA-axis (cortisol surge): stress physiology drove compliance rather than resistance.\n \n -Insula & ACC activation: encoding social shame and internal self-blame.\n \n -Hippocampal consolidation: the traumatic memory of being caught/fake video shapes future trust processing.",
+    "Cognitive Bias": [
+        "Hyperbolic Discounting",
+        "Loss Aversion",
+        "Optimism Bias",
+        "Reciprocity Norm"
+      ],
     "Emotional Mechanisms": [ "Fear, Shame"],
     "Source": "Times of India",
     "Common Signs": "Unsolicited video call from unknown number.\n \n -Female profile appears, quickly asks/takes undressing.\n \n -Almost immediate switch to male caller threatening exposure.\n \n -Morphed video footage used as blackmail.\n \n -Multiple transfers to different beneficiary accounts over short period.\n \n -Victim delays reporting due to shame/fear."
@@ -1070,8 +1339,14 @@
     "Scammed? Yes or No": "Yes",
     "Age": "50+",
     "Gender": "Male",
-    "Cognitive Bias": "Halo Effect: Attractive, confident woman elevated perceived credibility of investment claims.\n \n -Social Proof Bias: Telegram group filled with fake “users” showing profits increased perceived legitimacy.\n \n -Authority Bias: Woman portrayed herself as financially successful → perceived as expert.\n \n -Sunk Cost Fallacy: After investing large sums, he continued investing rather than accepting loss.\n \n -FOMO (Fear of Missing Out): High returns created urgency to act quickly.\n \n -Consistency Bias: Maintaining earlier belief in her honesty prevented noticing red flags.\n \n -Trust-Transfer Bias: Emotional closeness transferred into financial trust.",
-    "Neural Process": "Dopamine Anticipation Spike (VTA → NAcc): Seeing portfolio grow to ₹2 crore created reward-driven motivation overriding rationality.\n \n -Prefrontal Cortex Suppression: Emotional bonding + high-return illusion weakened risk evaluation and executive control.\n \n -Amygdala Under-Response: Emotional attachment muted threat detection, reducing suspicion.\n \n -Ventromedial PFC Activation: Value-based decision circuits overweighted potential gains vs. risks.\n \n -OFC Reward Valuation Distortion: “Guaranteed returns” inflated perceived utility.\n \n -Cortisol Surge (Withdrawal Blockage): Stress spike when told to pay “25% tax” triggered panic + realization of scam.\n \n -Hippocampal Encoding: Emotional intimacy tied to financial decisions created memory-linked trust reinforcement.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Confirmation Bias",
+        "Sunk Cost Fallacy",
+        "Scarcity Effect",
+        "Authority Bias",
+        "Affect Heuristic"
+      ],
     "Emotional Mechanisms": ["Greed, Trust, Hope"],
     "Source": "Times of India",
     "Common Signs": "Dating app match immediately discussing investments.\n \n -Claims of “crores earned” through special trading app.\n \n -Movement from dating app → WhatsApp → Telegram “VIP Group.”\n \n -Fake trading apps showing rapid unreal profits.\n \n -Pressure to invest increasing amounts repeatedly.\n \n -Withdrawal blocked with “tax” demands (25% rule is common).\n \n -Sudden disappearance after refusal to pay more."
@@ -1087,8 +1362,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Attractiveness Bias: Physical likeability lowered vigilance toward unusual spending patterns.\n \n -Familiarity Bias: Meeting in a “popular” restaurant created false sense of safety.\n \n -Social Pressure Bias: The presence of staff and aggressive tone triggered compliance.\n \n -Anchoring Effect: Initial bill of ₹35,000 made reduced bill of ₹30,000 appear “reasonable.”\n \n -Reciprocity Illusion: When the woman claimed she paid half, the victim felt compelled to pay his.\n \n -Normalcy Bias: Expected the date to be normal and dismissed early red flags (rapid ordering, lack of menu transparency).",
-    "Neural Process": "Dopaminergic Reward Circuit Activation (VTA–NAcc): Anticipation of positive social interaction reduced risk sensitivity.\n \n -Amygdala Suppression (Early Phase): Trust and attraction dampened threat perception toward unusual spending.\n \n -Amygdala Hyperactivation (Billing Phase): Sudden bill shock + confrontation triggered fear-based compliance.\n \n -PFC Downregulation Under Social Threat: Executive reasoning weakened under group intimidation.\n \n -Stress-Induced Cortisol Spike: Physiological fear response narrowed decision bandwidth → “pay and escape” behavior.\n \n -OFC Distorted Value Computation: Payment became perceived as quickest way to resolve social threat.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Social Desirability Bias",
+        "Anchoring",
+        "Reciprocity Norm",
+        "Normalcy Bias"
+      ],
     "Emotional Mechanisms": [ "Social pressure, Embarrassment, Intimidation"],
     "Source": "Times of India",
     "Common Signs": "Woman insists on meeting at a specific bar/restaurant.\n \n -Ordering expensive items quickly (Blue Label, hookah, energy drinks).\n \n -Sparse crowd + intimidating male staff hovering.\n \n -Abrupt bill presentation with inflated charges.\n \n -“Why are you delaying payment?” used as pressure tactic.\n \n -Bill “discount” offered after protest to simulate fairness.\n \n -Payment QR code linked to personal UPI ID, not venue.\n \n -Woman pretending to pay her half.\n \n -Dissociation/ghosting after payment."
@@ -1104,8 +1384,14 @@
     "Scammed? Yes or No": "Yes",
     "Age": "40s-50s",
     "Gender": "Male",
-    "Cognitive Bias": "Halo Effect: Both women appeared sophisticated, financially knowledgeable → boosted his belief in legitimacy.\n \n -Overconfidence Bias: High professional status correlated with false sense of invulnerability to scams.\n \n -Authority Bias: “Customer care executives” and structured websites mimicked real trading platforms.\n \n -Confirmation Bias: Early fake profits reinforced belief that investments were genuine.\n \n -Sunk Cost Fallacy: Continued investing to “unlock” returns already shown on the app.\n \n -Scarcity/FOMO Bias: Promises of high-profit, time-sensitive opportunities increased urgency.\n \n -Commitment-Consistency Bias: Having invested with the first scammer, he was cognitively primed to accept the second scammer’s proposal.",
-    "Neural Process": "Dopamine Overactivation (VTA → NAcc): Fake profitable dashboards triggered reward anticipation, overpowering rational restraint.\n \n -Prefrontal Cortex (PFC) Downregulation: Emotional validation from two “women” plus profit visualization weakened cost–risk analysis.\n \n -Amygdala Suppression (Early Phase): Perceived romantic trust muted suspicion and risk perception.\n \n -Orbitofrontal Cortex Distortion: Artificially inflated account value led to overestimation of future utility.\n \n -Cortisol Shock Phase: Withdrawal denial and repeated tax demands created panic → accelerating compliance.\n \n -Hippocampal Encoding of Trust: Parallel romantic interactions strengthened the belief the relationships were genuine.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Confirmation Bias",
+        "Sunk Cost Fallacy",
+        "Scarcity Effect",
+        "Authority Bias",
+        "Escalation of Commitment"
+      ],
     "Emotional Mechanisms": [ "Greed, Trust, Hope, Fear of loss"],
     "Source": "Times of India",
     "Common Signs": "Dating matches quickly pushing investment discussions.\n \n -Highly polished websites showing unrealistic returns.\n \n -“Customer care” demanding deposits for taxes, fees, or withdrawal verification.\n \n -Requests to deposit increasingly large amounts to “unlock” funds.\n \n -Dual scammers operating simultaneously — a hallmark of organized pig-butchering syndicates.\n \n -No ability to withdraw even small amounts after major deposits.\n \n -Multiple bank accounts used for deposits (classic laundering pattern).\n \n -Romantic communication intertwined with financial persuasion."
@@ -1121,8 +1407,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "Early 20s",
     "Gender": "Male",
-    "Cognitive Bias": "Curiosity Bias: Clicking the “call me” reel out of curiosity without risk evaluation.\n \n -Arousal-Induced Myopia: Sexual stimulus narrowed cognitive bandwidth, suppressing caution.\n \n -Immediacy Bias: Urgent threats (“video will be uploaded now”) created panic-driven decisions.\n \n -Authority Bias: Belief in the fake officer’s legal threats increased compliance.\n \n -Fear Confirmation Bias: Once scared, he interpreted every new caller as legitimate authority.\n \n -Loss Aversion: Paying extortion seemed safer than facing perceived social exposure.",
-    "Neural Process": "NAcc–VTA Dopamine Trigger: Female nudity + novelty → reward circuitry activation → rapid trust.\n \n -Prefrontal Cortex Shutdown: High arousal suppressed executive control → impulsive reactions.\n \n -Amygdala Hyperactivation (Fear Spike): Fake police threat triggered fight-or-flight → compliance.\n \n -HPA Axis Activation: Stress hormones (cortisol) spiked from repeated threats → decreased rational thinking.\n \n -Orbitofrontal Distortion: Exaggerated perceived cost of being “exposed,” undervaluing monetary loss.\n \n -Fear Conditioning Encoding: Brain linked “non-compliance” with catastrophic consequences.",
+    "Cognitive Bias": [
+        "Hyperbolic Discounting",
+        "Loss Aversion",
+        "Authority Bias",
+        "Confirmation Bias"
+      ],
     "Emotional Mechanisms": ["Fear, Shame, Panic"],
     "Source": "Times of India",
     "Common Signs": "Instagram reel asking to “call this number.”\n \n -Instant video call with sexual content.\n \n -Video call drops immediately after nude exposure.\n \n -QR-code demands to “stop upload.”\n \n -Fake platform worker + fake police officer tag-teaming threats.\n \n -Statement like “video is being uploaded right now.”\n \n -Legal threats (FIR, arrest, Section numbers) used to induce fear.\n \n -Repeated extortion even after payment."
@@ -1138,8 +1428,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "40s-50s",
     "Gender": "Male",
-    "Cognitive Bias": "Social Proof Bias: Facebook friend request created illusion of legitimacy (“mutuals/normal profile”).\n \n -Arousal-Induced Myopic Bias: Obscured risk analysis during sexual interaction.\n \n -Authority Imitation Bias: Believed caller’s threats without verifying identity.\n \n -Sunk Cost Fallacy: After first payment, felt compelled to continue paying to “protect” himself.\n \n -Catastrophic Thinking Bias: Overestimated consequences → “If I don’t pay, my life is ruined.”\n \n -Fear-Induced Compliance: Brain defaults to obeying demands under perceived danger.",
-    "Neural Process": "Dopaminergic Hyperactivation: Nude stimulus → ventral striatum (NAcc) reward surge → diminished PFC control.\n \n -PFC Suppression (Executive Collapse): Emotional arousal disabled logical judgement and consequence forecasting.\n \n -Amygdala Hyperactivation: Threats of exposure triggered intense fear → high cortisol output → panic decisions.\n \n -HPA Axis Overdrive: Stress hormones impaired working memory and rational analysis.\n \n -Anterior Cingulate Conflict Response: Internal conflict between morality, fear, and shame intensified panic.\n \n -Negative Reinforcement Loop: Paying reduced fear temporarily → reinforced scammers’ control.",
+    "Cognitive Bias": [
+        "Availability Heuristic",
+        "Sunk Cost Fallacy",
+        "Loss Aversion",
+        "Authority Bias"
+      ],
     "Emotional Mechanisms":["Fear, Shame, Intimidation, Panic, Desperation"],
     "Source": "Times of India",
     "Common Signs": "Random Facebook friend request from an attractive woman.\n \n -Immediate escalation to WhatsApp.\n \n -Pre-recorded fake nudity to induce compliance.\n \n -Instant threat call after victim exposure.\n \n -Multiple numbers used to manipulate emotionally.\n \n -Escalating payments despite initial compliance.\n \n -Threat to share/actual sharing of video with contacts.\n \n -Assurances like “pay and I will delete” are always fake."
@@ -1155,8 +1449,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "20s-30s",
     "Gender": "Male",
-    "Cognitive Bias": "Reward Anticipation Bias – Expectation of sexual reward shuts down risk-evaluation.\n \n -Instant Trust Bias – Migration from app → Instagram → WhatsApp interpreted as “genuine interest.”\n \n -Reciprocity Bias – After seeing her “strip,” felt compelled to respond similarly.\n \n -Arousal-Induced Myopia – Attention narrowed to the sexual stimulus, ignoring red flags.\n \n -Threat Heuristic Bias – When blackmailed, survival instinct dominated logic.\n \n -Sunk Cost Fallacy – After paying first installment, continued paying to “save face.”\n \n -Catastrophic Thinking – Overestimated consequences (“my life will be destroyed”).",
-    "Neural Process": "Dopamine Flood (Nucleus Accumbens activation)\n Sexual novelty → large dopamine surge → impaired inhibitory control.\n \n -Prefrontal Cortex Suppression (dlPFC + vmPFC)\n Decision-making regions shut down under arousal, reducing ability to evaluate risk and consequences.\n \n -Amygdala Hijack\n Threat of exposure → fear-conditioning → panic-driven compliance.\n \n -HPA Axis Overactivation\n Stress hormones (cortisol) surged, narrowing cognitive bandwidth → impulsive payments.\n \n -Anterior Cingulate Cortex Conflict Activation\n Internal conflict between shame, fear, and moral judgement intensified emotional overwhelm.\n \n -Negative Reinforcement Loop\n Paying → temporary relief → brain “learns” payment = reduce fear → reinforces scammer’s control.",
+    "Cognitive Bias": [
+        "Reciprocity Norm",
+        "Loss Aversion",
+        "Sunk Cost Fallacy",
+        "Hyperbolic Discounting"
+      ],
     "Emotional Mechanisms": [ "Fear, Shame, Intimidation, Panic, Desperation"],
     "Source": "Times of India",
     "Common Signs": "Push from dating app → Instagram → WhatsApp (classic scam migration path).\n \n -Extremely fast sexual escalation.\n \n -Pre-recorded nudity, not real-time interaction.\n \n -Sudden switch to manipulation within minutes.\n \n -Accessing Instagram contact list via profile syncing.\n \n -Threats like: “I’ll send to your family,” “pay or else.”\n \n -Escalating payment cycles despite initial compliance."
@@ -1172,8 +1470,12 @@
     "Scammed? Yes or No": "Yes",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "Halo Effect: assumed she was genuine because her profile seemed sweet and “girl-next-door.”\n \n Optimism Bias: expected the meetup to go well, overlooked early red flags.\n \n Confirmation Bias: interpreted her taking initiative as a sign of trustworthiness.\n \n Social Desirability Bias: didn’t want to appear rude by questioning the bar or refusing orders.\n \n Normalcy Bias: assumed the situation (ordering drinks, selecting venue) was typical for a date.",
-    "Neural Process": "Reward System Activation: early excitement about the match reduced critical thinking.\n \n Prefrontal Cortex Overridden: high emotional involvement lowered risk evaluation.\n \n Amygdala Stress Response: during bar pressure, fear took over, prioritizing escape over negotiation.\n \n Oxytocin-Driven Trust: initial rapport made the victim more susceptible to manipulation.",
+    "Cognitive Bias": [
+        "Halo Effect",
+        "Optimism Bias",
+        "Social Desirability Bias",
+        "Loss Aversion"
+      ],
     "Emotional Mechanisms": ["Social Pressure, Embarrassment, Intimidation, Betrayal of Trust, Helplessness, Obligation"],
     "Source": "Reddit",
     "Common Signs": "Match taking unusual control and picking an unknown spot.\n \n Shady-looking bar chosen by the other person.\n \n Scammer ordering drinks despite victim not drinking.\n \n Scammer claiming they have no money after the bill arrives.\n \n Fake phone calls pretending to arrange payment.\n \n Leaving the victim under a flimsy excuse (“someone nearby will give money”).\n \n Staff applying pressure, suggesting they’re part of the scam.\n \n Bill amount far higher than reasonable for two people."
@@ -1189,8 +1491,13 @@
     "Scammed? Yes or No": "Yes",
     "Age": "not specified",
     "Gender": "Male",
-    "Cognitive Bias": "Authority Bias: trusted the place because Google reviews were good.\n \n Commitment Bias: chatting for days created pressure to follow through with meeting.\n \n Optimism Bias: assumed everything would be normal.\n \n Halo Effect: girl seemed normal and proactive; victim assumed she was trustworthy.\n \n Inattentional Blindness: coming from work, distracted, missed subtle signals.\n \n Social Compliance: reluctance to cause a scene in a public place.",
-    "Neural Process": "Reduced Prefrontal Cortex Reasoning due to social context, fatigue after work, and trust-building.\n \n Reward System Engagement: excitement of meeting someone led to lower risk evaluation.\n \n Amygdala Fear Response: kicked in during the inflated bill conflict, leading to compliance to avoid escalation.\n \n Stress-Induced Decision Making: threat of embarrassment or confrontation narrowed decision bandwidth.",
+    "Cognitive Bias": [
+        "Authority Bias",
+        "Escalation of Commitment",
+        "Optimism Bias",
+        "Halo Effect",
+        "Social Desirability Bias"
+      ],
     "Emotional Mechanisms": ["Social Pressure, Intimidation, Helplessness, Betrayal of Trust, Frustration, Anger"],
     "Source": "Reddit",
     "Common Signs": "Girl pressuring to meet quickly.\n \n Girl choosing a specific venue and insisting on meeting there.\n \n Venue has rigged or coordinated staff behavior.\n \n Scammer orders very expensive items (Blue Label pegs).\n \n Ordering multiple pegs rapidly while the victim is away.\n \n Extra bill items mysteriously added.\n \n Staff trying to intimidate or corner the victim.\n \n Ridiculous pricing (₹1,000 cigarette pack, inflated alcohol costs).\n \n Scammer tries to leave the scene when tension rises.\n \n Emotional manipulation — “I got my periods.”\n \n Staff pretending it’s “normal” and pushing payment.\n \n Multiple other couples present, possibly other victims."
