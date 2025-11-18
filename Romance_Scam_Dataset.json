@@ -12,22 +12,7 @@
     "Gender": "Male",
     "Cognitive Bias": "- Halo Effect: Attractive match perceived as genuine and trustworthy.\n - Optimism Bias: Expected a normal date experience, underestimated risk.\n - Sunk-Cost Fallacy: Continued paying once the bill accumulated.\n - Commitment Bias: Felt obliged to pay since he had already agreed to the meeting.",
     "Neural Process": "- Reward Prediction Error: Anticipated romantic/social reward; instead faced unexpected financial loss.\n- Amygdala Activation: Panic and stress response during confrontation at café.\n- Short-Term Decision Making under Stress: Paid the amount to avoid embarrassment or conflict.",
-    "Emotional Mechanisms": [
-  "Hope",
-  "Trust",
-  "Vulnerability",
-  "Deception",
-  "Manipulation",
-  "Exploitation",
-  "Coercion",
-  "Embarrassment",
-  "Fear",
-  "Betrayal",
-  "Anger",
-  "Regret",
-  "Distrust",
-  "Greed"
-],
+    "Emotional Mechanisms": ["Hope, Trust, Vulnerability, Deception, Manipulation, Exploitation, Coercion, Embarrassment, Fear, Betrayal, Anger, Regret, Distrust, Greed"],
     "Source": "Reddit",
     "Common Signs": ""
   },
@@ -44,15 +29,7 @@
     "Gender": "Male",
     "Cognitive Bias": "- Halo Effect: Attractive match gives trust quickly.\n - Optimism Bias/Perceived Control: Expectation of a date, normal meetup, underestimating risk.\n - Commitment Bias/Sunk-Cost Fallacy: Once in situation and spending, less likely to leave.",
     "Neural Process": "- Reward prediction error: Expectation of social/romantic reward, but outcome is negative.\n- Short-term decision making under social/emotional pressure: Paying up to avoid embarrassment.\n- Amygdala activation: Possibly stress/fear when confronted with large bill or sense of trap.",
-    "Emotional Mechanisms": [
-  "Exploitation of Trust",
-  "Deception",
-  "Social Engineering",
-  "Vulnerability (preying on)",
-  "Shock",
-  "Betrayal",
-  "Anger"
-],
+    "Emotional Mechanisms": ["Exploitation of Trust, Deception, Social Engineering, Vulnerability (preying on), Shock, Betrayal, Anger"],
     "Source": "Reddit",
     "Common Signs": ""
   },
